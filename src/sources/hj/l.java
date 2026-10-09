@@ -1,0 +1,50 @@
+package hj;
+
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.FrameLayout;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
+import android.widget.TextView;
+import androidx.cardview.widget.CardView;
+import com.lingodeer.R;
+
+/* JADX INFO: compiled from: r8-map-id-0efd32d2926a16d016bd865e978a6a9d42a5302dcd598811e995dd081929f0a8 */
+/* JADX INFO: loaded from: classes3.dex */
+public final class l implements ta.a {
+
+    /* JADX INFO: renamed from: a, reason: collision with root package name */
+    public final /* synthetic */ int f32832a;
+
+    /* JADX INFO: renamed from: b, reason: collision with root package name */
+    public final ViewGroup f32833b;
+
+    public /* synthetic */ l(ViewGroup viewGroup, int i11) {
+        this.f32832a = i11;
+        this.f32833b = viewGroup;
+    }
+
+    public static l a(View view) {
+        int i11 = R.id.frame_layout;
+        if (((FrameLayout) fr.j3.q(view, R.id.frame_layout)) != null) {
+            i11 = R.id.img_tick;
+            if (((ImageView) fr.j3.q(view, R.id.img_tick)) != null) {
+                i11 = R.id.tv_middle;
+                if (((TextView) fr.j3.q(view, R.id.tv_middle)) != null) {
+                    return new l((CardView) view, 1);
+                }
+            }
+        }
+        throw new NullPointerException("Missing required view with ID: ".concat(view.getResources().getResourceName(i11)));
+    }
+
+    @Override // ta.a
+    public final View getRoot() {
+        switch (this.f32832a) {
+            case 0:
+                return (LinearLayout) this.f32833b;
+            default:
+                return (CardView) this.f32833b;
+        }
+    }
+}

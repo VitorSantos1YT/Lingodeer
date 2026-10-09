@@ -1,0 +1,1826 @@
+[
+  {
+    "Lesson": "L1",
+    "Type": "M0",
+    "Character": "ㅏ/a",
+    "Option_1": "ㅓ/eo",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L1",
+    "Type": "M0",
+    "Character": "ㅓ/eo",
+    "Option_1": "ㅏ/a",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L1",
+    "Type": "M0",
+    "Character": "아/a",
+    "Option_1": "어/eo",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L1",
+    "Type": "M0",
+    "Character": "어/eo",
+    "Option_1": "아/a",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L1",
+    "Type": "M2",
+    "Character": "아/a",
+    "Option_1": "어/eo",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L1",
+    "Type": "M0",
+    "Character": "마/ma",
+    "Option_1": "아/a",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L1",
+    "Type": "M0",
+    "Character": "머/meo",
+    "Option_1": "어/eo",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L1",
+    "Type": "M2",
+    "Character": "아/a",
+    "Option_1": "어/eo",
+    "Option_2": "마/ma",
+    "Option_3": "머/meo"
+  },
+  {
+    "Lesson": "L1",
+    "Type": "M1",
+    "Character": "마마/ma-ma",
+    "Option_1": "아아/a-a",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L1",
+    "Type": "M1",
+    "Character": "마어/ma-eo",
+    "Option_1": "마아/ma-a",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L1",
+    "Type": "M1",
+    "Character": "아마/a-ma",
+    "Option_1": "마아/ma-a",
+    "Option_2": "어머/eo-meo",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L1",
+    "Type": "M1",
+    "Character": "어머/eo-meo",
+    "Option_1": "머어/meo-eo",
+    "Option_2": "아마/a-ma",
+    "Option_3": "머아/meo-a"
+  },
+  {
+    "Lesson": "L1",
+    "Type": "M3",
+    "Character": "머아/meo-a",
+    "Option_1": "마/ma",
+    "Option_2": "어/eo",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L2",
+    "Type": "M0",
+    "Character": "오/o",
+    "Option_1": "우/u",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L2",
+    "Type": "M0",
+    "Character": "우/u",
+    "Option_1": "오/o",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L2",
+    "Type": "M2",
+    "Character": "아/a",
+    "Option_1": "어/eo",
+    "Option_2": "오/o",
+    "Option_3": "우/u"
+  },
+  {
+    "Lesson": "L2",
+    "Type": "M0",
+    "Character": "노/no",
+    "Option_1": "오/o",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L2",
+    "Type": "M0",
+    "Character": "누/nu",
+    "Option_1": "무/mu",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L2",
+    "Type": "M2",
+    "Character": "모/mo",
+    "Option_1": "무/mu",
+    "Option_2": "노/no",
+    "Option_3": "누/nu"
+  },
+  {
+    "Lesson": "L2",
+    "Type": "M1",
+    "Character": "나/na",
+    "Option_1": "노/no",
+    "Option_2": "누/nu",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L2",
+    "Type": "M1",
+    "Character": "너/neo",
+    "Option_1": "누/nu",
+    "Option_2": "노/no",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L2",
+    "Type": "M1",
+    "Character": "누나/nu-na",
+    "Option_1": "노나/no-na",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L2",
+    "Type": "M1",
+    "Character": "아무/a-mu",
+    "Option_1": "아모/a-mo",
+    "Option_2": "나무/na-mu",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L2",
+    "Type": "M1",
+    "Character": "너무/neo-mu",
+    "Option_1": "너모/neo-mo",
+    "Option_2": "나모/na-mo",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L2",
+    "Type": "M1",
+    "Character": "오너/o-neo",
+    "Option_1": "우너/u-neo",
+    "Option_2": "우나/u-na",
+    "Option_3": "오나/o-na"
+  },
+  {
+    "Lesson": "L2",
+    "Type": "M3",
+    "Character": "나무/na-mu",
+    "Option_1": "마/ma",
+    "Option_2": "노/no",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L3",
+    "Type": "M0",
+    "Character": "애/ae",
+    "Option_1": "아/a",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L3",
+    "Type": "M0",
+    "Character": "에/e",
+    "Option_1": "어/eo",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L3",
+    "Type": "M2",
+    "Character": "애/ae",
+    "Option_1": "아/a",
+    "Option_2": "오/o",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L3",
+    "Type": "M2",
+    "Character": "에/e",
+    "Option_1": "어/eo",
+    "Option_2": "우/u",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L3",
+    "Type": "M2",
+    "Character": "네/ne",
+    "Option_1": "래/lae",
+    "Option_2": "헤/he",
+    "Option_3": "매/mae"
+  },
+  {
+    "Lesson": "L3",
+    "Type": "M1",
+    "Character": "내/nae",
+    "Option_1": "해/hae",
+    "Option_2": "너/neo",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L3",
+    "Type": "M1",
+    "Character": "메/me",
+    "Option_1": "네/ne",
+    "Option_2": "라/la",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L3",
+    "Type": "M1",
+    "Character": "노래/no-lae",
+    "Option_1": "노해/no-hae",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L3",
+    "Type": "M1",
+    "Character": "오해/o-hae",
+    "Option_1": "오호/o-ho",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L3",
+    "Type": "M1",
+    "Character": "네모/ne-mo",
+    "Option_1": "나모/na-mo",
+    "Option_2": "너모/neo-mo",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L3",
+    "Type": "M1",
+    "Character": "아내/a-nae",
+    "Option_1": "아너/a-neo",
+    "Option_2": "아노/a-no",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L3",
+    "Type": "M1",
+    "Character": "나라/na-la",
+    "Option_1": "나하/na-ha",
+    "Option_2": "나래/na-lae",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L3",
+    "Type": "M1",
+    "Character": "하나/ha-na",
+    "Option_1": "해내/hae-nae",
+    "Option_2": "라나/la-na",
+    "Option_3": "헤나/he-na"
+  },
+  {
+    "Lesson": "L3",
+    "Type": "M1",
+    "Character": "매너/mae-neo",
+    "Option_1": "마너/ma-neo",
+    "Option_2": "매네/mae-ne",
+    "Option_3": "매라/mae-la"
+  },
+  {
+    "Lesson": "L3",
+    "Type": "M3",
+    "Character": "아래/a-lae",
+    "Option_1": "해/hae",
+    "Option_2": "에/e",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L4",
+    "Type": "M0",
+    "Character": "야/ya",
+    "Option_1": "아/a",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L4",
+    "Type": "M0",
+    "Character": "여/yeo",
+    "Option_1": "어/eo",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L4",
+    "Type": "M0",
+    "Character": "요/yo",
+    "Option_1": "오/o",
+    "Option_2": "야/ya",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L4",
+    "Type": "M0",
+    "Character": "유/yu",
+    "Option_1": "우/u",
+    "Option_2": "여/yeo",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L4",
+    "Type": "M2",
+    "Character": "야/ya",
+    "Option_1": "여/yeo",
+    "Option_2": "요/yo",
+    "Option_3": "유/yu"
+  },
+  {
+    "Lesson": "L4",
+    "Type": "M0",
+    "Character": "얘/yae",
+    "Option_1": "야/ya",
+    "Option_2": "애/ae",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L4",
+    "Type": "M0",
+    "Character": "예/ye",
+    "Option_1": "여/yeo",
+    "Option_2": "에/e",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L4",
+    "Type": "M2",
+    "Character": "햐/hya",
+    "Option_1": "하/ha",
+    "Option_2": "혀/hyeo",
+    "Option_3": "허/heo"
+  },
+  {
+    "Lesson": "L4",
+    "Type": "M1",
+    "Character": "럐/lyae",
+    "Option_1": "랴/lya",
+    "Option_2": "려/lyeo",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L4",
+    "Type": "M2",
+    "Character": "녜/nye",
+    "Option_1": "녀/nyeo",
+    "Option_2": "뇨/nyo",
+    "Option_3": "뉴/nyu"
+  },
+  {
+    "Lesson": "L4",
+    "Type": "M1",
+    "Character": "우유/u-yu",
+    "Option_1": "유우/yu-u",
+    "Option_2": "오요/o-yo",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L4",
+    "Type": "M1",
+    "Character": "묘해/myo-hae",
+    "Option_1": "모해/mo-hae",
+    "Option_2": "뮤해/myu-hae",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L4",
+    "Type": "M1",
+    "Character": "여유/yeo-yu",
+    "Option_1": "야요/ya-yo",
+    "Option_2": "여요/yeo-yo",
+    "Option_3": "예유/ye-yu"
+  },
+  {
+    "Lesson": "L4",
+    "Type": "M1",
+    "Character": "유래/yu-lae",
+    "Option_1": "유려/yu-lyeo",
+    "Option_2": "여래/yeo-lae",
+    "Option_3": "유랴/yu-lya"
+  },
+  {
+    "Lesson": "L4",
+    "Type": "M3",
+    "Character": "효녀/hyo-nyeo",
+    "Option_1": "호/ho",
+    "Option_2": "너/neo",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L5",
+    "Type": "M0",
+    "Character": "으/eu",
+    "Option_1": "이/i",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L5",
+    "Type": "M0",
+    "Character": "이/i",
+    "Option_1": "으/eu",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L5",
+    "Type": "M0",
+    "Character": "의/ui",
+    "Option_1": "으/eu",
+    "Option_2": "이/i",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L5",
+    "Type": "M2",
+    "Character": "으/eu",
+    "Option_1": "이/i",
+    "Option_2": "의/ui",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L5",
+    "Type": "M2",
+    "Character": "르/leu",
+    "Option_1": "미/mi",
+    "Option_2": "늬/nui",
+    "Option_3": "의/ui"
+  },
+  {
+    "Lesson": "L5",
+    "Type": "M1",
+    "Character": "니/ni",
+    "Option_1": "냐/nya",
+    "Option_2": "냬/nyae",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L5",
+    "Type": "M1",
+    "Character": "희/hui",
+    "Option_1": "흐/heu",
+    "Option_2": "헤/he",
+    "Option_3": "햬/hyae"
+  },
+  {
+    "Lesson": "L5",
+    "Type": "M1",
+    "Character": "무늬/mu-nui",
+    "Option_1": "무네/mu-ne",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L5",
+    "Type": "M1",
+    "Character": "아이/a-i",
+    "Option_1": "아으/a-eu",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L5",
+    "Type": "M1",
+    "Character": "이내/i-nae",
+    "Option_1": "으내/eu-nae",
+    "Option_2": "의내/ui-nae",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L5",
+    "Type": "M1",
+    "Character": "느려/neu-lyeo",
+    "Option_1": "늬려/nui-lyeo",
+    "Option_2": "뉴려/nyu-lyeo",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L5",
+    "Type": "M1",
+    "Character": "미녀/mi-nyeo",
+    "Option_1": "매녀/mae-nyeo",
+    "Option_2": "메녀/me-nyeo",
+    "Option_3": "므니/meu-ni"
+  },
+  {
+    "Lesson": "L5",
+    "Type": "M1",
+    "Character": "이모/i-mo",
+    "Option_1": "이므/i-meu",
+    "Option_2": "의모/ui-mo",
+    "Option_3": "의므/ui-meu"
+  },
+  {
+    "Lesson": "L5",
+    "Type": "M1",
+    "Character": "의무/ui-mu",
+    "Option_1": "이무/i-mu",
+    "Option_2": "으무/eu-mu",
+    "Option_3": "으미/eu-mi"
+  },
+  {
+    "Lesson": "L5",
+    "Type": "M3",
+    "Character": "어머니/eo-meo-ni",
+    "Option_1": "의/ui",
+    "Option_2": "느/neu",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L6",
+    "Type": "M0",
+    "Character": "와/wa",
+    "Option_1": "왜/wae",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L6",
+    "Type": "M0",
+    "Character": "왜/wae",
+    "Option_1": "와/wa",
+    "Option_2": "의/ui",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L6",
+    "Type": "M0",
+    "Character": "외/oe",
+    "Option_1": "와/wa",
+    "Option_2": "의/ui",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L6",
+    "Type": "M2",
+    "Character": "와/wa",
+    "Option_1": "왜/wae",
+    "Option_2": "의/ui",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L6",
+    "Type": "M2",
+    "Character": "화/hwa",
+    "Option_1": "회/hoe",
+    "Option_2": "희/hui",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L6",
+    "Type": "M1",
+    "Character": "뫼/moe",
+    "Option_1": "뫄/mwa",
+    "Option_2": "믜/mui",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L6",
+    "Type": "M1",
+    "Character": "놔/nwa",
+    "Option_1": "놰/nwae",
+    "Option_2": "뇌/noe",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L6",
+    "Type": "M1",
+    "Character": "롸/lwa",
+    "Option_1": "뢔/lwae",
+    "Option_2": "뢰/loe",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L6",
+    "Type": "M2",
+    "Character": "뫄/mwa",
+    "Option_1": "뫠/mwae",
+    "Option_2": "미/mi",
+    "Option_3": "먜/myae"
+  },
+  {
+    "Lesson": "L6",
+    "Type": "M1",
+    "Character": "이왜/i-wae",
+    "Option_1": "이와/i-wa",
+    "Option_2": "이의/i-ui",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L6",
+    "Type": "M1",
+    "Character": "화해/hwa-hae",
+    "Option_1": "홰하/hwae-ha",
+    "Option_2": "회화/hoe-hwa",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L6",
+    "Type": "M1",
+    "Character": "회의/hoe-ui",
+    "Option_1": "화의/hwa-ui",
+    "Option_2": "해이/hae-i",
+    "Option_3": "혜이/hye-i"
+  },
+  {
+    "Lesson": "L6",
+    "Type": "M1",
+    "Character": "내놔/nae-nwa",
+    "Option_1": "놰놔/nwae-nwa",
+    "Option_2": "내냐/nae-nya",
+    "Option_3": "놰뇌/nwae-noe"
+  },
+  {
+    "Lesson": "L6",
+    "Type": "M1",
+    "Character": "외래/oe-lae",
+    "Option_1": "의뢔/ui-lwae",
+    "Option_2": "왜롸/wae-lwa",
+    "Option_3": "와래/wa-lae"
+  },
+  {
+    "Lesson": "L6",
+    "Type": "M3",
+    "Character": "회화/hoe-hwa",
+    "Option_1": "해/hae",
+    "Option_2": "희/hui",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L7",
+    "Type": "M0",
+    "Character": "워/wo",
+    "Option_1": "웨/we",
+    "Option_2": "위/wi",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L7",
+    "Type": "M0",
+    "Character": "웨/we",
+    "Option_1": "워/wo",
+    "Option_2": "위/wi",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L7",
+    "Type": "M0",
+    "Character": "위/wi",
+    "Option_1": "워/wo",
+    "Option_2": "웨/we",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L7",
+    "Type": "M2",
+    "Character": "워/wo",
+    "Option_1": "웨/we",
+    "Option_2": "위/wi",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L7",
+    "Type": "M2",
+    "Character": "뤄/lwo",
+    "Option_1": "뤠/lwe",
+    "Option_2": "뤼/lwi",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L7",
+    "Type": "M1",
+    "Character": "눠/nwo",
+    "Option_1": "놔/nwa",
+    "Option_2": "뉘/nwi",
+    "Option_3": "눼/nwe"
+  },
+  {
+    "Lesson": "L7",
+    "Type": "M1",
+    "Character": "뉘/nwi",
+    "Option_1": "눠/nwo",
+    "Option_2": "늬/nui",
+    "Option_3": "뇌/noe"
+  },
+  {
+    "Lesson": "L7",
+    "Type": "M1",
+    "Character": "휘/hwi",
+    "Option_1": "훠/hwo",
+    "Option_2": "훼/hwe",
+    "Option_3": "회/hoe"
+  },
+  {
+    "Lesson": "L7",
+    "Type": "M1",
+    "Character": "훼/hwe",
+    "Option_1": "훠/hwo",
+    "Option_2": "휘/hwi",
+    "Option_3": "희/hui"
+  },
+  {
+    "Lesson": "L7",
+    "Type": "M1",
+    "Character": "뭬/mwe",
+    "Option_1": "뮈/mwi",
+    "Option_2": "뭐/mwo",
+    "Option_3": "뫄/mwa"
+  },
+  {
+    "Lesson": "L7",
+    "Type": "M1",
+    "Character": "뮈/mwi",
+    "Option_1": "뭐/mwo",
+    "Option_2": "믜/mui",
+    "Option_3": "뭬/mwe"
+  },
+  {
+    "Lesson": "L7",
+    "Type": "M1",
+    "Character": "뤄/lwo",
+    "Option_1": "뤼/lwi",
+    "Option_2": "뤠/lwe",
+    "Option_3": "롸/lwa"
+  },
+  {
+    "Lesson": "L7",
+    "Type": "M1",
+    "Character": "뤠/lwe",
+    "Option_1": "뤼/lwi",
+    "Option_2": "뤄/lwo",
+    "Option_3": "릐/lui"
+  },
+  {
+    "Lesson": "L7",
+    "Type": "M2",
+    "Character": "눼/nwe",
+    "Option_1": "눠/nwo",
+    "Option_2": "뉘/nwi",
+    "Option_3": "늬/nui"
+  },
+  {
+    "Lesson": "L7",
+    "Type": "M3",
+    "Character": "뭐해/mwo-hae",
+    "Option_1": "뮈/mwi",
+    "Option_2": "무/mu",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "Test1",
+    "Type": "M1",
+    "Character": "희/hui",
+    "Option_1": "해/hae",
+    "Option_2": "휘/hwi",
+    "Option_3": "회/hoe"
+  },
+  {
+    "Lesson": "Test1",
+    "Type": "M1",
+    "Character": "눠/nwo",
+    "Option_1": "놔/nwa",
+    "Option_2": "뇌/noe",
+    "Option_3": "녜/nye"
+  },
+  {
+    "Lesson": "Test1",
+    "Type": "M1",
+    "Character": "아우/a-u",
+    "Option_1": "어우/eo-u",
+    "Option_2": "오우/o-u",
+    "Option_3": "어오/eo-o"
+  },
+  {
+    "Lesson": "Test1",
+    "Type": "M1",
+    "Character": "의미/ui-mi",
+    "Option_1": "에리/e-li",
+    "Option_2": "이미/i-mi",
+    "Option_3": "아니/a-ni"
+  },
+  {
+    "Lesson": "Test1",
+    "Type": "M2",
+    "Character": "뭐/mwo",
+    "Option_1": "눠/nwo",
+    "Option_2": "훠/hwo",
+    "Option_3": "워/wo"
+  },
+  {
+    "Lesson": "Test1",
+    "Type": "M2",
+    "Character": "아내/a-nae",
+    "Option_1": "이유/i-yu",
+    "Option_2": "나이/na-i",
+    "Option_3": "어느/eo-neu"
+  },
+  {
+    "Lesson": "Test1",
+    "Type": "M2",
+    "Character": "마리/ma-li",
+    "Option_1": "모래/mo-lae",
+    "Option_2": "머리/meo-li",
+    "Option_3": "미래/mi-lae"
+  },
+  {
+    "Lesson": "Test1",
+    "Type": "M2",
+    "Character": "오래/o-lae",
+    "Option_1": "요리/yo-li",
+    "Option_2": "오후/o-hu",
+    "Option_3": "우리/u-li"
+  },
+  {
+    "Lesson": "Test1",
+    "Type": "M3",
+    "Character": "나와/na-wa",
+    "Option_1": "왜/wae",
+    "Option_2": "마/ma",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "Test1",
+    "Type": "M3",
+    "Character": "여우/yeo-u",
+    "Option_1": "어/eo",
+    "Option_2": "유/yu",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "Test1",
+    "Type": "M3",
+    "Character": "허리/heo-li",
+    "Option_1": "호/ho",
+    "Option_2": "이/i",
+    "Option_3": "미/mi"
+  },
+  {
+    "Lesson": "L8",
+    "Type": "M0",
+    "Character": "가/ga",
+    "Option_1": "카/ka",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L8",
+    "Type": "M0",
+    "Character": "카/ka",
+    "Option_1": "까/kka",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L8",
+    "Type": "M0",
+    "Character": "까/kka",
+    "Option_1": "가/ga",
+    "Option_2": "카/ka",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L8",
+    "Type": "M2",
+    "Character": "가/ga",
+    "Option_1": "카/ka",
+    "Option_2": "까/kka",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L8",
+    "Type": "M1",
+    "Character": "키위/ki-wi",
+    "Option_1": "기위/gi-wi",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L8",
+    "Type": "M1",
+    "Character": "꼬리/kko-li",
+    "Option_1": "코리/ko-li",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L8",
+    "Type": "M1",
+    "Character": "과거/gwa-geo",
+    "Option_1": "과커/gwa-keo",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L8",
+    "Type": "M2",
+    "Character": "고/go",
+    "Option_1": "코/ko",
+    "Option_2": "꼬/kko",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L8",
+    "Type": "M1",
+    "Character": "끼리/kki-li",
+    "Option_1": "키리/ki-li",
+    "Option_2": "기리/gi-li",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L8",
+    "Type": "M1",
+    "Character": "고모/go-mo",
+    "Option_1": "꼬모/kko-mo",
+    "Option_2": "코모/ko-mo",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L8",
+    "Type": "M1",
+    "Character": "기회/gi-hoe",
+    "Option_1": "끼회/kki-hoe",
+    "Option_2": "키회/ki-hoe",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L8",
+    "Type": "M1",
+    "Character": "고기/go-gi",
+    "Option_1": "코기/ko-gi",
+    "Option_2": "꼬기/kko-gi",
+    "Option_3": "고키/go-ki"
+  },
+  {
+    "Lesson": "L8",
+    "Type": "M1",
+    "Character": "가구/ga-gu",
+    "Option_1": "카쿠/ka-ku",
+    "Option_2": "까꾸/kka-kku",
+    "Option_3": "카꾸/ka-kku"
+  },
+  {
+    "Lesson": "L8",
+    "Type": "M3",
+    "Character": "쿠키/ku-ki",
+    "Option_1": "꾸/kku",
+    "Option_2": "기/gi",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L9",
+    "Type": "M0",
+    "Character": "다/da",
+    "Option_1": "타/ta",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L9",
+    "Type": "M0",
+    "Character": "타/ta",
+    "Option_1": "따/tta",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L9",
+    "Type": "M0",
+    "Character": "따/tta",
+    "Option_1": "다/da",
+    "Option_2": "타/ta",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L9",
+    "Type": "M2",
+    "Character": "다/da",
+    "Option_1": "타/ta",
+    "Option_2": "따/tta",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L9",
+    "Type": "M1",
+    "Character": "호두/ho-du",
+    "Option_1": "호투/ho-tu",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L9",
+    "Type": "M1",
+    "Character": "기타/gi-ta",
+    "Option_1": "기따/gi-tta",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L9",
+    "Type": "M1",
+    "Character": "또래/tto-lae",
+    "Option_1": "도래/do-lae",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L9",
+    "Type": "M2",
+    "Character": "두/du",
+    "Option_1": "투/tu",
+    "Option_2": "뚜/ttu",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L9",
+    "Type": "M1",
+    "Character": "다리/da-li",
+    "Option_1": "타리/ta-li",
+    "Option_2": "따리/tta-li",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L9",
+    "Type": "M1",
+    "Character": "투어/tu-eo",
+    "Option_1": "두어/du-eo",
+    "Option_2": "뚜어/ttu-eo",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L9",
+    "Type": "M1",
+    "Character": "드디어/deu-di-eo",
+    "Option_1": "뜨디어/tteu-di-eo",
+    "Option_2": "트띠어/teu-tti-eo",
+    "Option_3": "드티어/deu-ti-eo"
+  },
+  {
+    "Lesson": "L9",
+    "Type": "M1",
+    "Character": "타다/ta-da",
+    "Option_1": "타따/ta-tta",
+    "Option_2": "다타/da-ta",
+    "Option_3": "따따/tta-tta"
+  },
+  {
+    "Lesson": "L9",
+    "Type": "M1",
+    "Character": "뛰다/ttwi-da",
+    "Option_1": "튀다/twi-da",
+    "Option_2": "뒤다/dwi-da",
+    "Option_3": "뛰타/ttwi-ta"
+  },
+  {
+    "Lesson": "L9",
+    "Type": "M1",
+    "Character": "대다/dae-da",
+    "Option_1": "태다/tae-da",
+    "Option_2": "때다/ttae-da",
+    "Option_3": "대타/dae-ta"
+  },
+  {
+    "Lesson": "L9",
+    "Type": "M3",
+    "Character": "튀기다/twi-gi-da",
+    "Option_1": "뒤/dwi",
+    "Option_2": "뛰/ttwi",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L10",
+    "Type": "M0",
+    "Character": "바/ba",
+    "Option_1": "파/pa",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L10",
+    "Type": "M0",
+    "Character": "파/pa",
+    "Option_1": "빠/ppa",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L10",
+    "Type": "M0",
+    "Character": "빠/ppa",
+    "Option_1": "바/ba",
+    "Option_2": "파/pa",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L10",
+    "Type": "M2",
+    "Character": "바/ba",
+    "Option_1": "파/pa",
+    "Option_2": "빠/ppa",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L10",
+    "Type": "M1",
+    "Character": "오빠/o-ppa",
+    "Option_1": "오파/o-pa",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L10",
+    "Type": "M1",
+    "Character": "포도/po-do",
+    "Option_1": "뽀도/ppo-do",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L10",
+    "Type": "M1",
+    "Character": "부모/bu-mo",
+    "Option_1": "푸모/pu-mo",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L10",
+    "Type": "M2",
+    "Character": "배/bae",
+    "Option_1": "패/pae",
+    "Option_2": "빼/ppae",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L10",
+    "Type": "M1",
+    "Character": "포기/po-gi",
+    "Option_1": "보기/bo-gi",
+    "Option_2": "뽀기/ppo-gi",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L10",
+    "Type": "M1",
+    "Character": "아빠/a-ppa",
+    "Option_1": "아바/a-ba",
+    "Option_2": "아파/a-pa",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L10",
+    "Type": "M1",
+    "Character": "바보/ba-bo",
+    "Option_1": "파보/pa-bo",
+    "Option_2": "바포/ba-po",
+    "Option_3": "파뽀/pa-ppo"
+  },
+  {
+    "Lesson": "L10",
+    "Type": "M1",
+    "Character": "뽀뽀/ppo-ppo",
+    "Option_1": "보보/bo-bo",
+    "Option_2": "포포/po-po",
+    "Option_3": "뽀포/ppo-po"
+  },
+  {
+    "Lesson": "L10",
+    "Type": "M1",
+    "Character": "부페/bu-pe",
+    "Option_1": "부베/bu-be",
+    "Option_2": "푸페/pu-pe",
+    "Option_3": "뿌페/ppu-pe"
+  },
+  {
+    "Lesson": "L10",
+    "Type": "M1",
+    "Character": "부부/bu-bu",
+    "Option_1": "부푸/bu-pu",
+    "Option_2": "뿌부/ppu-bu",
+    "Option_3": "푸푸/pu-pu"
+  },
+  {
+    "Lesson": "L10",
+    "Type": "M3",
+    "Character": "피부/pi-bu",
+    "Option_1": "비/bi",
+    "Option_2": "뿌/ppu",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L11",
+    "Type": "M0",
+    "Character": "자/ja",
+    "Option_1": "차/cha",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L11",
+    "Type": "M0",
+    "Character": "차/cha",
+    "Option_1": "짜/jja",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L11",
+    "Type": "M0",
+    "Character": "짜/jja",
+    "Option_1": "자/ja",
+    "Option_2": "차/cha",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L11",
+    "Type": "M2",
+    "Character": "자/ja",
+    "Option_1": "차/cha",
+    "Option_2": "짜/jja",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L11",
+    "Type": "M1",
+    "Character": "쪼리/jjo-li",
+    "Option_1": "조리/jo-li",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L11",
+    "Type": "M1",
+    "Character": "바지/ba-ji",
+    "Option_1": "바치/ba-chi",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L11",
+    "Type": "M1",
+    "Character": "찌개/jji-gae",
+    "Option_1": "지개/ji-gae",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L11",
+    "Type": "M2",
+    "Character": "저/jeo",
+    "Option_1": "처/cheo",
+    "Option_2": "쩌/jjeo",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L11",
+    "Type": "M1",
+    "Character": "취미/chwi-mi",
+    "Option_1": "쥐미/jwi-mi",
+    "Option_2": "쮜미/jjwi-mi",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L11",
+    "Type": "M1",
+    "Character": "자주/ja-ju",
+    "Option_1": "차주/cha-ju",
+    "Option_2": "짜주/jja-ju",
+    "Option_3": "차쭈/cha-jju"
+  },
+  {
+    "Lesson": "L11",
+    "Type": "M1",
+    "Character": "재즈/jae-jeu",
+    "Option_1": "째즈/jjae-jeu",
+    "Option_2": "채즈/chae-jeu",
+    "Option_3": "재츠/jae-cheu"
+  },
+  {
+    "Lesson": "L11",
+    "Type": "M1",
+    "Character": "주차/ju-cha",
+    "Option_1": "추자/chu-ja",
+    "Option_2": "주짜/ju-jja",
+    "Option_3": "추짜/chu-jja"
+  },
+  {
+    "Lesson": "L11",
+    "Type": "M1",
+    "Character": "처지/cheo-ji",
+    "Option_1": "저지/jeo-ji",
+    "Option_2": "처찌/cheo-jji",
+    "Option_3": "저찌/jeo-jji"
+  },
+  {
+    "Lesson": "L11",
+    "Type": "M3",
+    "Character": "치즈/chi-jeu",
+    "Option_1": "찌/jji",
+    "Option_2": "츠/cheu",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L12",
+    "Type": "M0",
+    "Character": "사/sa",
+    "Option_1": "싸/ssa",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L12",
+    "Type": "M0",
+    "Character": "싸/ssa",
+    "Option_1": "사/sa",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L12",
+    "Type": "M0",
+    "Character": "소/so",
+    "Option_1": "쏘/sso",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L12",
+    "Type": "M0",
+    "Character": "쏘/sso",
+    "Option_1": "소/so",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L12",
+    "Type": "M2",
+    "Character": "사/sa",
+    "Option_1": "싸/ssa",
+    "Option_2": "소/so",
+    "Option_3": "쏘/sso"
+  },
+  {
+    "Lesson": "L12",
+    "Type": "M0",
+    "Character": "시/si",
+    "Option_1": "지/ji",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L12",
+    "Type": "M0",
+    "Character": "씨/ssi",
+    "Option_1": "찌/jji",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L12",
+    "Type": "M2",
+    "Character": "사/sa",
+    "Option_1": "쏘/sso",
+    "Option_2": "씨/ssi",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L12",
+    "Type": "M1",
+    "Character": "사과/sa-gwa",
+    "Option_1": "자과/ja-gwa",
+    "Option_2": "타과/ta-gwa",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L12",
+    "Type": "M1",
+    "Character": "호수/ho-su",
+    "Option_1": "호투/ho-tu",
+    "Option_2": "호주/ho-ju",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L12",
+    "Type": "M1",
+    "Character": "아저씨/a-jeo-ssi",
+    "Option_1": "아저쎄/a-jeo-sse",
+    "Option_2": "아저히/a-jeo-hi",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L12",
+    "Type": "M1",
+    "Character": "주스/ju-seu",
+    "Option_1": "주수/ju-su",
+    "Option_2": "주즈/ju-jeu",
+    "Option_3": "수스/su-seu"
+  },
+  {
+    "Lesson": "L12",
+    "Type": "M1",
+    "Character": "쓰다/sseu-da",
+    "Option_1": "씨다/ssi-da",
+    "Option_2": "쌔다/ssae-da",
+    "Option_3": "쐐다/sswae-da"
+  },
+  {
+    "Lesson": "L12",
+    "Type": "M1",
+    "Character": "새우/sae-u",
+    "Option_1": "사우/sa-u",
+    "Option_2": "자우/ja-u",
+    "Option_3": "재우/jae-u"
+  },
+  {
+    "Lesson": "L12",
+    "Type": "M1",
+    "Character": "세수/se-su",
+    "Option_1": "쩨쭈/jje-jju",
+    "Option_2": "체추/che-chu",
+    "Option_3": "제주/je-ju"
+  },
+  {
+    "Lesson": "L12",
+    "Type": "M3",
+    "Character": "이쑤시개/i-ssu-si-gae",
+    "Option_1": "쭈/jju",
+    "Option_2": "세/se",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L13",
+    "Type": "M0",
+    "Character": "안/an",
+    "Option_1": "암/am",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L13",
+    "Type": "M0",
+    "Character": "암/am",
+    "Option_1": "안/an",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L13",
+    "Type": "M0",
+    "Character": "알/al",
+    "Option_1": "앙/ang",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L13",
+    "Type": "M2",
+    "Character": "안/an",
+    "Option_1": "암/am",
+    "Option_2": "알/al",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L13",
+    "Type": "M0",
+    "Character": "앙/ang",
+    "Option_1": "알/al",
+    "Option_2": "안/an",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L13",
+    "Type": "M0",
+    "Character": "잉/ing",
+    "Option_1": "일/il",
+    "Option_2": "임/im",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L13",
+    "Type": "M2",
+    "Character": "인/in",
+    "Option_1": "일/il",
+    "Option_2": "임/im",
+    "Option_3": "잉/ing"
+  },
+  {
+    "Lesson": "L13",
+    "Type": "M1",
+    "Character": "털/teol",
+    "Option_1": "턴/teon",
+    "Option_2": "텅/teong",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L13",
+    "Type": "M1",
+    "Character": "한/han",
+    "Option_1": "할/hal",
+    "Option_2": "항/hang",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L13",
+    "Type": "M1",
+    "Character": "럼/leom",
+    "Option_1": "런/leon",
+    "Option_2": "럴/leol",
+    "Option_3": "렁/leong"
+  },
+  {
+    "Lesson": "L13",
+    "Type": "M1",
+    "Character": "영/yeong",
+    "Option_1": "연/yeon",
+    "Option_2": "염/yeom",
+    "Option_3": "열/yeol"
+  },
+  {
+    "Lesson": "L13",
+    "Type": "M1",
+    "Character": "시인/si-in",
+    "Option_1": "시일/si-il",
+    "Option_2": "시임/si-im",
+    "Option_3": "시잉/si-ing"
+  },
+  {
+    "Lesson": "L13",
+    "Type": "M1",
+    "Character": "마음/ma-eum",
+    "Option_1": "마은/ma-eun",
+    "Option_2": "마을/ma-eul",
+    "Option_3": "마응/ma-eung"
+  },
+  {
+    "Lesson": "L13",
+    "Type": "M1",
+    "Character": "향기/hyang-gi",
+    "Option_1": "햔기/hyan-gi",
+    "Option_2": "햠기/hyam-gi",
+    "Option_3": "항기/hang-gi"
+  },
+  {
+    "Lesson": "L13",
+    "Type": "M3",
+    "Character": "심장/sim-jang",
+    "Option_1": "실/sil",
+    "Option_2": "잔/jan",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L14",
+    "Type": "M0",
+    "Character": "악/ag",
+    "Option_1": "앙/ang",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L14",
+    "Type": "M0",
+    "Character": "억/eog",
+    "Option_1": "엉/eong",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L14",
+    "Type": "M2",
+    "Character": "악/ag",
+    "Option_1": "억/eog",
+    "Option_2": "앙/ang",
+    "Option_3": "엉/eong"
+  },
+  {
+    "Lesson": "L14",
+    "Type": "M0",
+    "Character": "앋/ad",
+    "Option_1": "안/an",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L14",
+    "Type": "M0",
+    "Character": "얻/eod",
+    "Option_1": "언/eon",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L14",
+    "Type": "M2",
+    "Character": "앋/ad",
+    "Option_1": "얻/eod",
+    "Option_2": "안/an",
+    "Option_3": "언/eon"
+  },
+  {
+    "Lesson": "L14",
+    "Type": "M0",
+    "Character": "압/ab",
+    "Option_1": "암/am",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L14",
+    "Type": "M0",
+    "Character": "업/eob",
+    "Option_1": "엄/eom",
+    "Option_2": "",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L14",
+    "Type": "M2",
+    "Character": "압/ab",
+    "Option_1": "업/eob",
+    "Option_2": "암/am",
+    "Option_3": "엄/eom"
+  },
+  {
+    "Lesson": "L14",
+    "Type": "M1",
+    "Character": "숍/syob",
+    "Option_1": "숌/syom",
+    "Option_2": "숑/syong",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L14",
+    "Type": "M1",
+    "Character": "앱/aeb",
+    "Option_1": "앰/aem",
+    "Option_2": "앤/aen",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L14",
+    "Type": "M1",
+    "Character": "숟/sud",
+    "Option_1": "숩/sub",
+    "Option_2": "순/sun",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L14",
+    "Type": "M1",
+    "Character": "헙/heob",
+    "Option_1": "헐/heol",
+    "Option_2": "헌/heon",
+    "Option_3": "헉/heog"
+  },
+  {
+    "Lesson": "L14",
+    "Type": "M1",
+    "Character": "약/yag",
+    "Option_1": "양/yang",
+    "Option_2": "얍/yab",
+    "Option_3": "얌/yam"
+  },
+  {
+    "Lesson": "L14",
+    "Type": "M3",
+    "Character": "사업/sa-eob",
+    "Option_1": "얼/eol",
+    "Option_2": "삭/sag",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "L14",
+    "Type": "M3",
+    "Character": "부엌/bu-eok",
+    "Option_1": "언/eon",
+    "Option_2": "붇/bug",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "Test2",
+    "Type": "M1",
+    "Character": "도/do",
+    "Option_1": "고/go",
+    "Option_2": "보/bo",
+    "Option_3": "조/jo"
+  },
+  {
+    "Lesson": "Test2",
+    "Type": "M1",
+    "Character": "캉/kang",
+    "Option_1": "강/gang",
+    "Option_2": "깡/kkang",
+    "Option_3": "쌍/ssang"
+  },
+  {
+    "Lesson": "Test2",
+    "Type": "M1",
+    "Character": "가방/ga-bang",
+    "Option_1": "가팡/ga-pang",
+    "Option_2": "카방/ka-bang",
+    "Option_3": "가반/ga-ban"
+  },
+  {
+    "Lesson": "Test2",
+    "Type": "M1",
+    "Character": "서울/seo-ul",
+    "Option_1": "서운/seo-un",
+    "Option_2": "서욱/seo-ug",
+    "Option_3": "서움/seo-um"
+  },
+  {
+    "Lesson": "Test2",
+    "Type": "M2",
+    "Character": "기분/gi-bun",
+    "Option_1": "거품/geo-pum",
+    "Option_2": "대부/dae-bu",
+    "Option_3": "대문/dae-mun"
+  },
+  {
+    "Lesson": "Test2",
+    "Type": "M2",
+    "Character": "반팔/ban-pal",
+    "Option_1": "단풍/dan-pung",
+    "Option_2": "장소/jang-so",
+    "Option_3": "콜라/kol-la"
+  },
+  {
+    "Lesson": "Test2",
+    "Type": "M2",
+    "Character": "비싸다/bi-ssa-da",
+    "Option_1": "빠르다/ppa-leu-da",
+    "Option_2": "떠나다/tteo-na-da",
+    "Option_3": "치우다/chi-u-da"
+  },
+  {
+    "Lesson": "Test2",
+    "Type": "M2",
+    "Character": "피자/pi-ja",
+    "Option_1": "토끼/to-kki",
+    "Option_2": "초대/cho-dae",
+    "Option_3": "찌개/jji-gae"
+  },
+  {
+    "Lesson": "Test2",
+    "Type": "M3",
+    "Character": "교실/gyo-sil",
+    "Option_1": "도/do",
+    "Option_2": "시/si",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "Test2",
+    "Type": "M3",
+    "Character": "친구/chin-gu",
+    "Option_1": "칠/chil",
+    "Option_2": "거/geo",
+    "Option_3": ""
+  },
+  {
+    "Lesson": "Test2",
+    "Type": "M3",
+    "Character": "비행기/bi-haeng-gi",
+    "Option_1": "한/han",
+    "Option_2": "디/di",
+    "Option_3": "삼/sam"
+  }
+]

@@ -1,0 +1,23 @@
+package com.google.android.gms.internal.auth;
+
+import java.util.Iterator;
+import java.util.NoSuchElementException;
+
+/* JADX INFO: compiled from: r8-map-id-0efd32d2926a16d016bd865e978a6a9d42a5302dcd598811e995dd081929f0a8 */
+/* JADX INFO: loaded from: classes.dex */
+final class zzgm implements Iterator {
+    @Override // java.util.Iterator
+    public final boolean hasNext() {
+        return false;
+    }
+
+    @Override // java.util.Iterator
+    public final Object next() {
+        throw new NoSuchElementException();
+    }
+
+    @Override // java.util.Iterator
+    public final void remove() {
+        throw new UnsupportedOperationException();
+    }
+}

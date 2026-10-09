@@ -1,0 +1,33 @@
+package dt;
+
+/* JADX WARN: Failed to restore enum class, 'enum' modifier and super class removed */
+/* JADX WARN: Unknown enum class pattern. Please report as an issue! */
+/* JADX INFO: compiled from: r8-map-id-0efd32d2926a16d016bd865e978a6a9d42a5302dcd598811e995dd081929f0a8 */
+/* JADX INFO: loaded from: classes4.dex */
+public final class b {
+    private static final /* synthetic */ yy.a $ENTRIES;
+    private static final /* synthetic */ b[] $VALUES;
+    public static final b NORMAL;
+    public static final b SENTENCE_LEARN;
+    public static final b SPEAKING_PRACTICE;
+
+    static {
+        b bVar = new b("SENTENCE_LEARN", 0);
+        SENTENCE_LEARN = bVar;
+        b bVar2 = new b("SPEAKING_PRACTICE", 1);
+        SPEAKING_PRACTICE = bVar2;
+        b bVar3 = new b("NORMAL", 2);
+        NORMAL = bVar3;
+        b[] bVarArr = {bVar, bVar2, bVar3};
+        $VALUES = bVarArr;
+        $ENTRIES = ub.a.U(bVarArr);
+    }
+
+    public static b valueOf(String str) {
+        return (b) Enum.valueOf(b.class, str);
+    }
+
+    public static b[] values() {
+        return (b[]) $VALUES.clone();
+    }
+}

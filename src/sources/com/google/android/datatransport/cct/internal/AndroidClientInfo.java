@@ -1,0 +1,63 @@
+package com.google.android.datatransport.cct.internal;
+
+/* JADX INFO: compiled from: r8-map-id-0efd32d2926a16d016bd865e978a6a9d42a5302dcd598811e995dd081929f0a8 */
+/* JADX INFO: loaded from: classes.dex */
+public abstract class AndroidClientInfo {
+
+    /* JADX INFO: compiled from: r8-map-id-0efd32d2926a16d016bd865e978a6a9d42a5302dcd598811e995dd081929f0a8 */
+    public static abstract class Builder {
+        public abstract AndroidClientInfo a();
+
+        public abstract Builder b(String str);
+
+        public abstract Builder c(String str);
+
+        public abstract Builder d(String str);
+
+        public abstract Builder e(String str);
+
+        public abstract Builder f(String str);
+
+        public abstract Builder g(String str);
+
+        public abstract Builder h(String str);
+
+        public abstract Builder i(String str);
+
+        public abstract Builder j(String str);
+
+        public abstract Builder k(String str);
+
+        public abstract Builder l(String str);
+
+        public abstract Builder m(Integer num);
+    }
+
+    public static Builder a() {
+        return new AutoValue_AndroidClientInfo.Builder();
+    }
+
+    public abstract String b();
+
+    public abstract String c();
+
+    public abstract String d();
+
+    public abstract String e();
+
+    public abstract String f();
+
+    public abstract String g();
+
+    public abstract String h();
+
+    public abstract String i();
+
+    public abstract String j();
+
+    public abstract String k();
+
+    public abstract String l();
+
+    public abstract Integer m();
+}

@@ -1,0 +1,3128 @@
+[
+  {
+    "lesson": "L1",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "あ",
+    "romanization": "a",
+    "options": []
+  },
+  {
+    "lesson": "L1",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "い",
+    "romanization": "i",
+    "options": []
+  },
+  {
+    "lesson": "L1",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "あ",
+    "romanization": "a",
+    "options": [
+      {
+        "character": "い",
+        "romanization": "i"
+      }
+    ]
+  },
+  {
+    "lesson": "L1",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "う",
+    "romanization": "u",
+    "options": []
+  },
+  {
+    "lesson": "L1",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "う",
+    "romanization": "u",
+    "options": [
+      {
+        "character": "い",
+        "romanization": "i"
+      }
+    ]
+  },
+  {
+    "lesson": "L1",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "え",
+    "romanization": "e",
+    "options": []
+  },
+  {
+    "lesson": "L1",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "え",
+    "romanization": "e",
+    "options": [
+      {
+        "character": "あ",
+        "romanization": "a"
+      }
+    ]
+  },
+  {
+    "lesson": "L1",
+    "script": "hiragana",
+    "type": "M2",
+    "character": "い",
+    "romanization": "i",
+    "options": [
+      {
+        "character": "あ",
+        "romanization": "a"
+      },
+      {
+        "character": "う",
+        "romanization": "u"
+      }
+    ]
+  },
+  {
+    "lesson": "L1",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "お",
+    "romanization": "o",
+    "options": []
+  },
+  {
+    "lesson": "L1",
+    "script": "hiragana",
+    "type": "M2",
+    "character": "お",
+    "romanization": "o",
+    "options": [
+      {
+        "character": "う",
+        "romanization": "u"
+      },
+      {
+        "character": "え",
+        "romanization": "e"
+      }
+    ]
+  },
+  {
+    "lesson": "L1",
+    "script": "hiragana",
+    "type": "M3",
+    "character": "お",
+    "romanization": "o",
+    "options": [
+      {
+        "character": "い",
+        "romanization": "i"
+      },
+      {
+        "character": "あ",
+        "romanization": "a"
+      }
+    ]
+  },
+  {
+    "lesson": "L1",
+    "script": "hiragana",
+    "type": "M5",
+    "character": "え",
+    "romanization": "e",
+    "options": [
+      {
+        "character": "お",
+        "romanization": "o"
+      },
+      {
+        "character": "う",
+        "romanization": "u"
+      }
+    ]
+  },
+  {
+    "lesson": "L2",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "か",
+    "romanization": "ka",
+    "options": []
+  },
+  {
+    "lesson": "L2",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "き",
+    "romanization": "ki",
+    "options": []
+  },
+  {
+    "lesson": "L2",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "か",
+    "romanization": "ka",
+    "options": [
+      {
+        "character": "き",
+        "romanization": "ki"
+      }
+    ]
+  },
+  {
+    "lesson": "L2",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "く",
+    "romanization": "ku",
+    "options": []
+  },
+  {
+    "lesson": "L2",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "く",
+    "romanization": "ku",
+    "options": [
+      {
+        "character": "か",
+        "romanization": "ka"
+      }
+    ]
+  },
+  {
+    "lesson": "L2",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "け",
+    "romanization": "ke",
+    "options": []
+  },
+  {
+    "lesson": "L2",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "け",
+    "romanization": "ke",
+    "options": [
+      {
+        "character": "き",
+        "romanization": "ki"
+      }
+    ]
+  },
+  {
+    "lesson": "L2",
+    "script": "hiragana",
+    "type": "M2",
+    "character": "き",
+    "romanization": "ki",
+    "options": [
+      {
+        "character": "か",
+        "romanization": "ka"
+      },
+      {
+        "character": "く",
+        "romanization": "ku"
+      }
+    ]
+  },
+  {
+    "lesson": "L2",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "こ",
+    "romanization": "ko",
+    "options": []
+  },
+  {
+    "lesson": "L2",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "こ",
+    "romanization": "ko",
+    "options": [
+      {
+        "character": "か",
+        "romanization": "ka"
+      },
+      {
+        "character": "け",
+        "romanization": "ke"
+      }
+    ]
+  },
+  {
+    "lesson": "L2",
+    "script": "hiragana",
+    "type": "M5",
+    "character": "こ",
+    "romanization": "ko",
+    "options": [
+      {
+        "character": "お",
+        "romanization": "o"
+      },
+      {
+        "character": "か",
+        "romanization": "ka"
+      }
+    ]
+  },
+  {
+    "lesson": "L2",
+    "script": "hiragana",
+    "type": "M3",
+    "character": "く",
+    "romanization": "ku",
+    "options": [
+      {
+        "character": "う",
+        "romanization": "u"
+      },
+      {
+        "character": "こ",
+        "romanization": "ko"
+      }
+    ]
+  },
+  {
+    "lesson": "L3",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "さ",
+    "romanization": "sa",
+    "options": []
+  },
+  {
+    "lesson": "L3",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "し",
+    "romanization": "shi",
+    "options": []
+  },
+  {
+    "lesson": "L3",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "し",
+    "romanization": "shi",
+    "options": [
+      {
+        "character": "さ",
+        "romanization": "sa"
+      }
+    ]
+  },
+  {
+    "lesson": "L3",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "す",
+    "romanization": "su",
+    "options": []
+  },
+  {
+    "lesson": "L3",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "す",
+    "romanization": "su",
+    "options": [
+      {
+        "character": "さ",
+        "romanization": "sa"
+      }
+    ]
+  },
+  {
+    "lesson": "L3",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "せ",
+    "romanization": "se",
+    "options": []
+  },
+  {
+    "lesson": "L3",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "せ",
+    "romanization": "se",
+    "options": [
+      {
+        "character": "け",
+        "romanization": "ke"
+      }
+    ]
+  },
+  {
+    "lesson": "L3",
+    "script": "hiragana",
+    "type": "M2",
+    "character": "し",
+    "romanization": "shi",
+    "options": [
+      {
+        "character": "す",
+        "romanization": "su"
+      },
+      {
+        "character": "せ",
+        "romanization": "se"
+      }
+    ]
+  },
+  {
+    "lesson": "L3",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "そ",
+    "romanization": "so",
+    "options": []
+  },
+  {
+    "lesson": "L3",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "そ",
+    "romanization": "so",
+    "options": [
+      {
+        "character": "さ",
+        "romanization": "sa"
+      },
+      {
+        "character": "す",
+        "romanization": "su"
+      }
+    ]
+  },
+  {
+    "lesson": "L3",
+    "script": "hiragana",
+    "type": "M5",
+    "character": "す",
+    "romanization": "su",
+    "options": [
+      {
+        "character": "し",
+        "romanization": "shi"
+      },
+      {
+        "character": "く",
+        "romanization": "ku"
+      }
+    ]
+  },
+  {
+    "lesson": "L3",
+    "script": "hiragana",
+    "type": "M3",
+    "character": "せ",
+    "romanization": "se",
+    "options": [
+      {
+        "character": "さ",
+        "romanization": "sa"
+      },
+      {
+        "character": "そ",
+        "romanization": "so"
+      }
+    ]
+  },
+  {
+    "lesson": "L4",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "た",
+    "romanization": "ta",
+    "options": []
+  },
+  {
+    "lesson": "L4",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "ち",
+    "romanization": "chi",
+    "options": []
+  },
+  {
+    "lesson": "L4",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "た",
+    "romanization": "ta",
+    "options": [
+      {
+        "character": "ち",
+        "romanization": "chi"
+      }
+    ]
+  },
+  {
+    "lesson": "L4",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "つ",
+    "romanization": "tsu",
+    "options": []
+  },
+  {
+    "lesson": "L4",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "つ",
+    "romanization": "tsu",
+    "options": [
+      {
+        "character": "ち",
+        "romanization": "chi"
+      }
+    ]
+  },
+  {
+    "lesson": "L4",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "て",
+    "romanization": "te",
+    "options": []
+  },
+  {
+    "lesson": "L4",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "ち",
+    "romanization": "chi",
+    "options": [
+      {
+        "character": "て",
+        "romanization": "te"
+      }
+    ]
+  },
+  {
+    "lesson": "L4",
+    "script": "hiragana",
+    "type": "M2",
+    "character": "て",
+    "romanization": "te",
+    "options": [
+      {
+        "character": "つ",
+        "romanization": "tsu"
+      },
+      {
+        "character": "た",
+        "romanization": "ta"
+      }
+    ]
+  },
+  {
+    "lesson": "L4",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "と",
+    "romanization": "to",
+    "options": []
+  },
+  {
+    "lesson": "L4",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "て",
+    "romanization": "te",
+    "options": [
+      {
+        "character": "え",
+        "romanization": "e"
+      },
+      {
+        "character": "せ",
+        "romanization": "se"
+      }
+    ]
+  },
+  {
+    "lesson": "L4",
+    "script": "hiragana",
+    "type": "M3",
+    "character": "と",
+    "romanization": "to",
+    "options": [
+      {
+        "character": "つ",
+        "romanization": "tsu"
+      },
+      {
+        "character": "た",
+        "romanization": "ta"
+      }
+    ]
+  },
+  {
+    "lesson": "L4",
+    "script": "hiragana",
+    "type": "M5",
+    "character": "とき",
+    "romanization": "to ki",
+    "options": [
+      {
+        "character": "とけ",
+        "romanization": "to ke"
+      },
+      {
+        "character": "とし",
+        "romanization": "to shi"
+      }
+    ]
+  },
+  {
+    "lesson": "L5",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "な",
+    "romanization": "na",
+    "options": []
+  },
+  {
+    "lesson": "L5",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "に",
+    "romanization": "ni",
+    "options": []
+  },
+  {
+    "lesson": "L5",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "に",
+    "romanization": "ni",
+    "options": [
+      {
+        "character": "な",
+        "romanization": "na"
+      }
+    ]
+  },
+  {
+    "lesson": "L5",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "ぬ",
+    "romanization": "nu",
+    "options": []
+  },
+  {
+    "lesson": "L5",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "な",
+    "romanization": "na",
+    "options": [
+      {
+        "character": "ぬ",
+        "romanization": "nu"
+      }
+    ]
+  },
+  {
+    "lesson": "L5",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "ね",
+    "romanization": "ne",
+    "options": []
+  },
+  {
+    "lesson": "L5",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "ぬ",
+    "romanization": "nu",
+    "options": [
+      {
+        "character": "ね",
+        "romanization": "ne"
+      }
+    ]
+  },
+  {
+    "lesson": "L5",
+    "script": "hiragana",
+    "type": "M2",
+    "character": "ね",
+    "romanization": "ne",
+    "options": [
+      {
+        "character": "な",
+        "romanization": "na"
+      },
+      {
+        "character": "け",
+        "romanization": "ke"
+      }
+    ]
+  },
+  {
+    "lesson": "L5",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "の",
+    "romanization": "no",
+    "options": []
+  },
+  {
+    "lesson": "L5",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "の",
+    "romanization": "no",
+    "options": [
+      {
+        "character": "な",
+        "romanization": "na"
+      },
+      {
+        "character": "に",
+        "romanization": "ni"
+      }
+    ]
+  },
+  {
+    "lesson": "L5",
+    "script": "hiragana",
+    "type": "M3",
+    "character": "ね",
+    "romanization": "ne",
+    "options": [
+      {
+        "character": "せ",
+        "romanization": "se"
+      },
+      {
+        "character": "て",
+        "romanization": "te"
+      }
+    ]
+  },
+  {
+    "lesson": "L5",
+    "script": "hiragana",
+    "type": "M5",
+    "character": "にこ",
+    "romanization": "ni ko",
+    "options": [
+      {
+        "character": "いこ",
+        "romanization": "i ko"
+      },
+      {
+        "character": "ちこ",
+        "romanization": "chi ko"
+      }
+    ]
+  },
+  {
+    "lesson": "L6",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "は",
+    "romanization": "ha",
+    "options": []
+  },
+  {
+    "lesson": "L6",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "ひ",
+    "romanization": "hi",
+    "options": []
+  },
+  {
+    "lesson": "L6",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "は",
+    "romanization": "ha",
+    "options": [
+      {
+        "character": "ひ",
+        "romanization": "hi"
+      }
+    ]
+  },
+  {
+    "lesson": "L6",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "ふ",
+    "romanization": "fu",
+    "options": []
+  },
+  {
+    "lesson": "L6",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "ふ",
+    "romanization": "fu",
+    "options": [
+      {
+        "character": "う",
+        "romanization": "u"
+      }
+    ]
+  },
+  {
+    "lesson": "L6",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "へ",
+    "romanization": "he",
+    "options": []
+  },
+  {
+    "lesson": "L6",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "へ",
+    "romanization": "he",
+    "options": [
+      {
+        "character": "は",
+        "romanization": "ha"
+      }
+    ]
+  },
+  {
+    "lesson": "L6",
+    "script": "hiragana",
+    "type": "M2",
+    "character": "ひ",
+    "romanization": "hi",
+    "options": [
+      {
+        "character": "き",
+        "romanization": "ki"
+      },
+      {
+        "character": "へ",
+        "romanization": "he"
+      }
+    ]
+  },
+  {
+    "lesson": "L6",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "ほ",
+    "romanization": "ho",
+    "options": []
+  },
+  {
+    "lesson": "L6",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "ほ",
+    "romanization": "ho",
+    "options": [
+      {
+        "character": "と",
+        "romanization": "to"
+      },
+      {
+        "character": "の",
+        "romanization": "no"
+      }
+    ]
+  },
+  {
+    "lesson": "L6",
+    "script": "hiragana",
+    "type": "M3",
+    "character": "ひ",
+    "romanization": "hi",
+    "options": [
+      {
+        "character": "へ",
+        "romanization": "he"
+      },
+      {
+        "character": "ふ",
+        "romanization": "fu"
+      }
+    ]
+  },
+  {
+    "lesson": "L6",
+    "script": "hiragana",
+    "type": "M5",
+    "character": "はし",
+    "romanization": "ha shi",
+    "options": [
+      {
+        "character": "はい",
+        "romanization": "ha i"
+      },
+      {
+        "character": "はに",
+        "romanization": "ha ni"
+      }
+    ]
+  },
+  {
+    "lesson": "L7",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "ま",
+    "romanization": "ma",
+    "options": []
+  },
+  {
+    "lesson": "L7",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "み",
+    "romanization": "mi",
+    "options": []
+  },
+  {
+    "lesson": "L7",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "ま",
+    "romanization": "ma",
+    "options": [
+      {
+        "character": "み",
+        "romanization": "mi"
+      }
+    ]
+  },
+  {
+    "lesson": "L7",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "む",
+    "romanization": "mu",
+    "options": []
+  },
+  {
+    "lesson": "L7",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "め",
+    "romanization": "me",
+    "options": []
+  },
+  {
+    "lesson": "L7",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "む",
+    "romanization": "mu",
+    "options": [
+      {
+        "character": "め",
+        "romanization": "me"
+      },
+      {
+        "character": "み",
+        "romanization": "mi"
+      }
+    ]
+  },
+  {
+    "lesson": "L7",
+    "script": "hiragana",
+    "type": "M2",
+    "character": "み",
+    "romanization": "mi",
+    "options": [
+      {
+        "character": "ち",
+        "romanization": "chi"
+      },
+      {
+        "character": "に",
+        "romanization": "ni"
+      }
+    ]
+  },
+  {
+    "lesson": "L7",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "も",
+    "romanization": "mo",
+    "options": []
+  },
+  {
+    "lesson": "L7",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "も",
+    "romanization": "mo",
+    "options": [
+      {
+        "character": "め",
+        "romanization": "me"
+      },
+      {
+        "character": "む",
+        "romanization": "mu"
+      }
+    ]
+  },
+  {
+    "lesson": "L7",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "や",
+    "romanization": "ya",
+    "options": []
+  },
+  {
+    "lesson": "L7",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "や",
+    "romanization": "ya",
+    "options": [
+      {
+        "character": "あ",
+        "romanization": "a"
+      },
+      {
+        "character": "え",
+        "romanization": "e"
+      }
+    ]
+  },
+  {
+    "lesson": "L7",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "ゆ",
+    "romanization": "yu",
+    "options": []
+  },
+  {
+    "lesson": "L7",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "よ",
+    "romanization": "yo",
+    "options": []
+  },
+  {
+    "lesson": "L7",
+    "script": "hiragana",
+    "type": "M3",
+    "character": "ゆ",
+    "romanization": "yu",
+    "options": [
+      {
+        "character": "よ",
+        "romanization": "yo"
+      },
+      {
+        "character": "や",
+        "romanization": "ya"
+      }
+    ]
+  },
+  {
+    "lesson": "L7",
+    "script": "hiragana",
+    "type": "M5",
+    "character": "め",
+    "romanization": "me",
+    "options": [
+      {
+        "character": "み",
+        "romanization": "mi"
+      },
+      {
+        "character": "も",
+        "romanization": "mo"
+      }
+    ]
+  },
+  {
+    "lesson": "L7",
+    "script": "hiragana",
+    "type": "M5",
+    "character": "よし",
+    "romanization": "yo shi",
+    "options": [
+      {
+        "character": "もし",
+        "romanization": "mo shi"
+      },
+      {
+        "character": "ほし",
+        "romanization": "ho shi"
+      }
+    ]
+  },
+  {
+    "lesson": "L8",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "ら",
+    "romanization": "ra",
+    "options": []
+  },
+  {
+    "lesson": "L8",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "り",
+    "romanization": "ri",
+    "options": []
+  },
+  {
+    "lesson": "L8",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "り",
+    "romanization": "ri",
+    "options": [
+      {
+        "character": "ら",
+        "romanization": "ra"
+      }
+    ]
+  },
+  {
+    "lesson": "L8",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "る",
+    "romanization": "ru",
+    "options": []
+  },
+  {
+    "lesson": "L8",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "れ",
+    "romanization": "re",
+    "options": []
+  },
+  {
+    "lesson": "L8",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "ら",
+    "romanization": "ra",
+    "options": [
+      {
+        "character": "れ",
+        "romanization": "re"
+      },
+      {
+        "character": "る",
+        "romanization": "ru"
+      }
+    ]
+  },
+  {
+    "lesson": "L8",
+    "script": "hiragana",
+    "type": "M2",
+    "character": "れ",
+    "romanization": "re",
+    "options": [
+      {
+        "character": "る",
+        "romanization": "ru"
+      },
+      {
+        "character": "ね",
+        "romanization": "ne"
+      }
+    ]
+  },
+  {
+    "lesson": "L8",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "ろ",
+    "romanization": "ro",
+    "options": []
+  },
+  {
+    "lesson": "L8",
+    "script": "hiragana",
+    "type": "M3",
+    "character": "ろ",
+    "romanization": "ro",
+    "options": [
+      {
+        "character": "り",
+        "romanization": "ri"
+      },
+      {
+        "character": "れ",
+        "romanization": "re"
+      }
+    ]
+  },
+  {
+    "lesson": "L8",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "わ",
+    "romanization": "wa",
+    "options": []
+  },
+  {
+    "lesson": "L8",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "わ",
+    "romanization": "wa",
+    "options": [
+      {
+        "character": "か",
+        "romanization": "ka"
+      },
+      {
+        "character": "ら",
+        "romanization": "ra"
+      }
+    ]
+  },
+  {
+    "lesson": "L8",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "を",
+    "romanization": "wo",
+    "options": []
+  },
+  {
+    "lesson": "L8",
+    "script": "hiragana",
+    "type": "M5",
+    "character": "を",
+    "romanization": "wo",
+    "options": [
+      {
+        "character": "わ",
+        "romanization": "wa"
+      },
+      {
+        "character": "ろ",
+        "romanization": "ro"
+      }
+    ]
+  },
+  {
+    "lesson": "L8",
+    "script": "hiragana",
+    "type": "M6",
+    "character": "ん",
+    "romanization": "n",
+    "options": []
+  },
+  {
+    "lesson": "L8",
+    "script": "hiragana",
+    "type": "M2",
+    "character": "わん",
+    "romanization": "wa n",
+    "options": [
+      {
+        "character": "らん",
+        "romanization": "ra n"
+      },
+      {
+        "character": "わう",
+        "romanization": "wa u"
+      }
+    ]
+  },
+  {
+    "lesson": "L8",
+    "script": "hiragana",
+    "type": "M5",
+    "character": "れ",
+    "romanization": "re",
+    "options": [
+      {
+        "character": "り",
+        "romanization": "ri"
+      },
+      {
+        "character": "る",
+        "romanization": "ru"
+      }
+    ]
+  },
+  {
+    "lesson": "L8",
+    "script": "hiragana",
+    "type": "M5",
+    "character": "わ",
+    "romanization": "wa",
+    "options": [
+      {
+        "character": "を",
+        "romanization": "wo"
+      },
+      {
+        "character": "ん",
+        "romanization": "n"
+      }
+    ]
+  },
+  {
+    "lesson": "L9",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "が",
+    "romanization": "ga",
+    "options": [
+      {
+        "character": "か",
+        "romanization": "ka"
+      }
+    ]
+  },
+  {
+    "lesson": "L9",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "ぎ",
+    "romanization": "gi",
+    "options": [
+      {
+        "character": "き",
+        "romanization": "ki"
+      }
+    ]
+  },
+  {
+    "lesson": "L9",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "が",
+    "romanization": "ga",
+    "options": [
+      {
+        "character": "か",
+        "romanization": "ka"
+      }
+    ]
+  },
+  {
+    "lesson": "L9",
+    "script": "hiragana",
+    "type": "M2",
+    "character": "ぎ",
+    "romanization": "gi",
+    "options": [
+      {
+        "character": "き",
+        "romanization": "ki"
+      }
+    ]
+  },
+  {
+    "lesson": "L9",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "ぐ",
+    "romanization": "gu",
+    "options": [
+      {
+        "character": "く",
+        "romanization": "ku"
+      }
+    ]
+  },
+  {
+    "lesson": "L9",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "げ",
+    "romanization": "ge",
+    "options": [
+      {
+        "character": "け",
+        "romanization": "ke"
+      }
+    ]
+  },
+  {
+    "lesson": "L9",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "ご",
+    "romanization": "go",
+    "options": [
+      {
+        "character": "こ",
+        "romanization": "ko"
+      }
+    ]
+  },
+  {
+    "lesson": "L9",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "ぐ",
+    "romanization": "gu",
+    "options": [
+      {
+        "character": "く",
+        "romanization": "ku"
+      },
+      {
+        "character": "げ",
+        "romanization": "ge"
+      },
+      {
+        "character": "ご",
+        "romanization": "go"
+      }
+    ]
+  },
+  {
+    "lesson": "L9",
+    "script": "hiragana",
+    "type": "M2",
+    "character": "ご",
+    "romanization": "go",
+    "options": [
+      {
+        "character": "こ",
+        "romanization": "ko"
+      },
+      {
+        "character": "ぐ",
+        "romanization": "gu"
+      },
+      {
+        "character": "げ",
+        "romanization": "ge"
+      }
+    ]
+  },
+  {
+    "lesson": "L9",
+    "script": "hiragana",
+    "type": "M3",
+    "character": "が",
+    "romanization": "ga",
+    "options": [
+      {
+        "character": "ぎ",
+        "romanization": "gi"
+      },
+      {
+        "character": "ぐ",
+        "romanization": "gu"
+      },
+      {
+        "character": "ご",
+        "romanization": "go"
+      }
+    ]
+  },
+  {
+    "lesson": "L9",
+    "script": "hiragana",
+    "type": "M4",
+    "character": "かぎ",
+    "romanization": "ka gi",
+    "options": [
+      {
+        "character": "き",
+        "romanization": "ki"
+      },
+      {
+        "character": "げ",
+        "romanization": "ge"
+      }
+    ]
+  },
+  {
+    "lesson": "L9",
+    "script": "hiragana",
+    "type": "M4",
+    "character": "かげ",
+    "romanization": "ka ge",
+    "options": [
+      {
+        "character": "け",
+        "romanization": "ke"
+      },
+      {
+        "character": "ご",
+        "romanization": "go"
+      }
+    ]
+  },
+  {
+    "lesson": "L10",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "ざ",
+    "romanization": "za",
+    "options": [
+      {
+        "character": "さ",
+        "romanization": "sa"
+      }
+    ]
+  },
+  {
+    "lesson": "L10",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "じ",
+    "romanization": "ji",
+    "options": [
+      {
+        "character": "し",
+        "romanization": "shi"
+      }
+    ]
+  },
+  {
+    "lesson": "L10",
+    "script": "hiragana",
+    "type": "M2",
+    "character": "ざ",
+    "romanization": "za",
+    "options": [
+      {
+        "character": "さ",
+        "romanization": "sa"
+      }
+    ]
+  },
+  {
+    "lesson": "L10",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "ず",
+    "romanization": "zu",
+    "options": [
+      {
+        "character": "す",
+        "romanization": "su"
+      }
+    ]
+  },
+  {
+    "lesson": "L10",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "ぜ",
+    "romanization": "ze",
+    "options": [
+      {
+        "character": "せ",
+        "romanization": "se"
+      }
+    ]
+  },
+  {
+    "lesson": "L10",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "ぞ",
+    "romanization": "zo",
+    "options": [
+      {
+        "character": "そ",
+        "romanization": "so"
+      }
+    ]
+  },
+  {
+    "lesson": "L10",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "ず",
+    "romanization": "zu",
+    "options": [
+      {
+        "character": "す",
+        "romanization": "su"
+      },
+      {
+        "character": "ぜ",
+        "romanization": "ze"
+      },
+      {
+        "character": "ぞ",
+        "romanization": "zo"
+      }
+    ]
+  },
+  {
+    "lesson": "L10",
+    "script": "hiragana",
+    "type": "M2",
+    "character": "ぞ",
+    "romanization": "zo",
+    "options": [
+      {
+        "character": "そ",
+        "romanization": "so"
+      },
+      {
+        "character": "ず",
+        "romanization": "zu"
+      },
+      {
+        "character": "ぜ",
+        "romanization": "ze"
+      }
+    ]
+  },
+  {
+    "lesson": "L10",
+    "script": "hiragana",
+    "type": "M3",
+    "character": "ざ",
+    "romanization": "za",
+    "options": [
+      {
+        "character": "じ",
+        "romanization": "ji"
+      },
+      {
+        "character": "ず",
+        "romanization": "zu"
+      },
+      {
+        "character": "ぞ",
+        "romanization": "zo"
+      }
+    ]
+  },
+  {
+    "lesson": "L10",
+    "script": "hiragana",
+    "type": "M4",
+    "character": "ざる",
+    "romanization": "za ru",
+    "options": [
+      {
+        "character": "さ",
+        "romanization": "sa"
+      },
+      {
+        "character": "ず",
+        "romanization": "zu"
+      }
+    ]
+  },
+  {
+    "lesson": "L10",
+    "script": "hiragana",
+    "type": "M4",
+    "character": "ぜみ",
+    "romanization": "ze mi",
+    "options": [
+      {
+        "character": "せ",
+        "romanization": "se"
+      },
+      {
+        "character": "ぞ",
+        "romanization": "zo"
+      }
+    ]
+  },
+  {
+    "lesson": "L11",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "だ",
+    "romanization": "da",
+    "options": [
+      {
+        "character": "た",
+        "romanization": "ta"
+      }
+    ]
+  },
+  {
+    "lesson": "L11",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "ぢ",
+    "romanization": "ji",
+    "options": [
+      {
+        "character": "ち",
+        "romanization": "chi"
+      }
+    ]
+  },
+  {
+    "lesson": "L11",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "ぢ",
+    "romanization": "ji",
+    "options": [
+      {
+        "character": "ち",
+        "romanization": "chi"
+      }
+    ]
+  },
+  {
+    "lesson": "L11",
+    "script": "hiragana",
+    "type": "M2",
+    "character": "だ",
+    "romanization": "da",
+    "options": [
+      {
+        "character": "た",
+        "romanization": "ta"
+      }
+    ]
+  },
+  {
+    "lesson": "L11",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "づ",
+    "romanization": "zu",
+    "options": [
+      {
+        "character": "つ",
+        "romanization": "tsu"
+      }
+    ]
+  },
+  {
+    "lesson": "L11",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "で",
+    "romanization": "de",
+    "options": [
+      {
+        "character": "て",
+        "romanization": "te"
+      }
+    ]
+  },
+  {
+    "lesson": "L11",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "ど",
+    "romanization": "do",
+    "options": [
+      {
+        "character": "と",
+        "romanization": "to"
+      }
+    ]
+  },
+  {
+    "lesson": "L11",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "づ",
+    "romanization": "zu",
+    "options": [
+      {
+        "character": "つ",
+        "romanization": "tsu"
+      },
+      {
+        "character": "で",
+        "romanization": "de"
+      },
+      {
+        "character": "ど",
+        "romanization": "do"
+      }
+    ]
+  },
+  {
+    "lesson": "L11",
+    "script": "hiragana",
+    "type": "M2",
+    "character": "ど",
+    "romanization": "do",
+    "options": [
+      {
+        "character": "と",
+        "romanization": "to"
+      },
+      {
+        "character": "づ",
+        "romanization": "zu"
+      },
+      {
+        "character": "で",
+        "romanization": "de"
+      }
+    ]
+  },
+  {
+    "lesson": "L11",
+    "script": "hiragana",
+    "type": "M3",
+    "character": "だ",
+    "romanization": "da",
+    "options": [
+      {
+        "character": "ぢ",
+        "romanization": "ji"
+      },
+      {
+        "character": "づ",
+        "romanization": "zu"
+      },
+      {
+        "character": "で",
+        "romanization": "de"
+      }
+    ]
+  },
+  {
+    "lesson": "L11",
+    "script": "hiragana",
+    "type": "M4",
+    "character": "でんわ",
+    "romanization": "de n wa",
+    "options": [
+      {
+        "character": "て",
+        "romanization": "te"
+      },
+      {
+        "character": "ね",
+        "romanization": "ne"
+      }
+    ]
+  },
+  {
+    "lesson": "L11",
+    "script": "hiragana",
+    "type": "M4",
+    "character": "つづく",
+    "romanization": "tsu zu ku",
+    "options": [
+      {
+        "character": "き",
+        "romanization": "ki"
+      }
+    ]
+  },
+  {
+    "lesson": "L12",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "ば",
+    "romanization": "ba",
+    "options": [
+      {
+        "character": "は",
+        "romanization": "ha"
+      }
+    ]
+  },
+  {
+    "lesson": "L12",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "び",
+    "romanization": "bi",
+    "options": [
+      {
+        "character": "ひ",
+        "romanization": "hi"
+      }
+    ]
+  },
+  {
+    "lesson": "L12",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "ば",
+    "romanization": "ba",
+    "options": [
+      {
+        "character": "は",
+        "romanization": "ha"
+      },
+      {
+        "character": "び",
+        "romanization": "bi"
+      },
+      {
+        "character": "ひ",
+        "romanization": "hi"
+      }
+    ]
+  },
+  {
+    "lesson": "L12",
+    "script": "hiragana",
+    "type": "M2",
+    "character": "び",
+    "romanization": "bi",
+    "options": [
+      {
+        "character": "ひ",
+        "romanization": "hi"
+      },
+      {
+        "character": "ば",
+        "romanization": "ba"
+      },
+      {
+        "character": "は",
+        "romanization": "ha"
+      }
+    ]
+  },
+  {
+    "lesson": "L12",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "ぶ",
+    "romanization": "bu",
+    "options": [
+      {
+        "character": "ふ",
+        "romanization": "fu"
+      }
+    ]
+  },
+  {
+    "lesson": "L12",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "べ",
+    "romanization": "be",
+    "options": [
+      {
+        "character": "へ",
+        "romanization": "he"
+      }
+    ]
+  },
+  {
+    "lesson": "L12",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "ぼ",
+    "romanization": "bo",
+    "options": [
+      {
+        "character": "ほ",
+        "romanization": "ho"
+      }
+    ]
+  },
+  {
+    "lesson": "L12",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "ぶ",
+    "romanization": "bu",
+    "options": [
+      {
+        "character": "ふ",
+        "romanization": "fu"
+      },
+      {
+        "character": "べ",
+        "romanization": "be"
+      },
+      {
+        "character": "ぼ",
+        "romanization": "bo"
+      }
+    ]
+  },
+  {
+    "lesson": "L12",
+    "script": "hiragana",
+    "type": "M2",
+    "character": "ぼ",
+    "romanization": "bo",
+    "options": [
+      {
+        "character": "ほ",
+        "romanization": "ho"
+      },
+      {
+        "character": "ぶ",
+        "romanization": "bu"
+      },
+      {
+        "character": "べ",
+        "romanization": "be"
+      }
+    ]
+  },
+  {
+    "lesson": "L12",
+    "script": "hiragana",
+    "type": "M3",
+    "character": "ば",
+    "romanization": "ba",
+    "options": [
+      {
+        "character": "び",
+        "romanization": "bi"
+      },
+      {
+        "character": "ぶ",
+        "romanization": "bu"
+      },
+      {
+        "character": "ぼ",
+        "romanization": "bo"
+      }
+    ]
+  },
+  {
+    "lesson": "L12",
+    "script": "hiragana",
+    "type": "M4",
+    "character": "ばら",
+    "romanization": "ba ra",
+    "options": [
+      {
+        "character": "は",
+        "romanization": "ha"
+      }
+    ]
+  },
+  {
+    "lesson": "L12",
+    "script": "hiragana",
+    "type": "M4",
+    "character": "ぶた",
+    "romanization": "bu ta",
+    "options": [
+      {
+        "character": "ふ",
+        "romanization": "fu"
+      },
+      {
+        "character": "だ",
+        "romanization": "da"
+      }
+    ]
+  },
+  {
+    "lesson": "L13",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "ぱ",
+    "romanization": "pa",
+    "options": [
+      {
+        "character": "は",
+        "romanization": "ha"
+      }
+    ]
+  },
+  {
+    "lesson": "L13",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "ぴ",
+    "romanization": "pi",
+    "options": [
+      {
+        "character": "ひ",
+        "romanization": "hi"
+      }
+    ]
+  },
+  {
+    "lesson": "L13",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "ぱ",
+    "romanization": "pa",
+    "options": [
+      {
+        "character": "は",
+        "romanization": "ha"
+      }
+    ]
+  },
+  {
+    "lesson": "L13",
+    "script": "hiragana",
+    "type": "M2",
+    "character": "ぴ",
+    "romanization": "pi",
+    "options": [
+      {
+        "character": "ひ",
+        "romanization": "hi"
+      }
+    ]
+  },
+  {
+    "lesson": "L13",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "ぷ",
+    "romanization": "pu",
+    "options": [
+      {
+        "character": "ふ",
+        "romanization": "fu"
+      }
+    ]
+  },
+  {
+    "lesson": "L13",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "ぺ",
+    "romanization": "pe",
+    "options": [
+      {
+        "character": "へ",
+        "romanization": "he"
+      }
+    ]
+  },
+  {
+    "lesson": "L13",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "ぽ",
+    "romanization": "po",
+    "options": [
+      {
+        "character": "ほ",
+        "romanization": "ho"
+      }
+    ]
+  },
+  {
+    "lesson": "L13",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "ぷ",
+    "romanization": "pu",
+    "options": [
+      {
+        "character": "ふ",
+        "romanization": "fu"
+      },
+      {
+        "character": "ぺ",
+        "romanization": "pe"
+      },
+      {
+        "character": "ぽ",
+        "romanization": "po"
+      }
+    ]
+  },
+  {
+    "lesson": "L13",
+    "script": "hiragana",
+    "type": "M2",
+    "character": "ぽ",
+    "romanization": "po",
+    "options": [
+      {
+        "character": "ほ",
+        "romanization": "ho"
+      },
+      {
+        "character": "ぷ",
+        "romanization": "pu"
+      },
+      {
+        "character": "ぺ",
+        "romanization": "pe"
+      }
+    ]
+  },
+  {
+    "lesson": "L13",
+    "script": "hiragana",
+    "type": "M3",
+    "character": "ぱ",
+    "romanization": "pa",
+    "options": [
+      {
+        "character": "ぴ",
+        "romanization": "pi"
+      },
+      {
+        "character": "ぷ",
+        "romanization": "pu"
+      },
+      {
+        "character": "ぽ",
+        "romanization": "po"
+      }
+    ]
+  },
+  {
+    "lesson": "L13",
+    "script": "hiragana",
+    "type": "M4",
+    "character": "ぽいすて",
+    "romanization": "po i su te",
+    "options": [
+      {
+        "character": "ほ",
+        "romanization": "ho"
+      },
+      {
+        "character": "ぼ",
+        "romanization": "bo"
+      }
+    ]
+  },
+  {
+    "lesson": "L13",
+    "script": "hiragana",
+    "type": "M4",
+    "character": "ぺん",
+    "romanization": "pe n",
+    "options": [
+      {
+        "character": "べ",
+        "romanization": "be"
+      },
+      {
+        "character": "へ",
+        "romanization": "he"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "かあ",
+    "romanization": "ka a",
+    "options": [
+      {
+        "character": "か",
+        "romanization": "ka"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "くう",
+    "romanization": "ku u",
+    "options": [
+      {
+        "character": "く",
+        "romanization": "ku"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "けい",
+    "romanization": "ke i",
+    "options": [
+      {
+        "character": "け",
+        "romanization": "ke"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "とう",
+    "romanization": "to u",
+    "options": [
+      {
+        "character": "と",
+        "romanization": "to"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "ぶどう",
+    "romanization": "bu do u",
+    "options": [
+      {
+        "character": "ぶと",
+        "romanization": "bu to"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "せんせい",
+    "romanization": "se n se i",
+    "options": [
+      {
+        "character": "せんせ",
+        "romanization": "se n se"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "hiragana",
+    "type": "M2",
+    "character": "おにいさん",
+    "romanization": "o ni i sa n",
+    "options": [
+      {
+        "character": "おにさん",
+        "romanization": "o ni sa n"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "こうこう",
+    "romanization": "ko u ko u",
+    "options": [
+      {
+        "character": "ここ",
+        "romanization": "ko ko"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "hiragana",
+    "type": "M3",
+    "character": "おばあさん",
+    "romanization": "o ba a sa n",
+    "options": [
+      {
+        "character": "ゆうき",
+        "romanization": "yu u ki"
+      },
+      {
+        "character": "こうこう",
+        "romanization": "ko u ko u"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "ぶどう",
+    "romanization": "bu do u",
+    "options": [
+      {
+        "character": "ぶと",
+        "romanization": "bu to"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "hiragana",
+    "type": "M3",
+    "character": "おかあさん",
+    "romanization": "o ka a sa n",
+    "options": [
+      {
+        "character": "おにいさん",
+        "romanization": "o ni i sa n"
+      },
+      {
+        "character": "くうき",
+        "romanization": "ku u ki"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "hiragana",
+    "type": "M5",
+    "character": "こうこう",
+    "romanization": "ko u ko u",
+    "options": [
+      {
+        "character": "おとうさん",
+        "romanization": "o to u sa n"
+      },
+      {
+        "character": "せんせい",
+        "romanization": "se n se i"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "hiragana",
+    "type": "M4",
+    "character": "とけい",
+    "romanization": "to ke i",
+    "options": [
+      {
+        "character": "とけ",
+        "romanization": "to ke"
+      },
+      {
+        "character": "つ",
+        "romanization": "tsu"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "hiragana",
+    "type": "M4",
+    "character": "おとうさん",
+    "romanization": "o to u sa n",
+    "options": [
+      {
+        "character": "おとさん",
+        "romanization": "o to sa n"
+      },
+      {
+        "character": "つ",
+        "romanization": "tsu"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "hiragana",
+    "type": "M4",
+    "character": "ぶどう",
+    "romanization": "bu do u",
+    "options": [
+      {
+        "character": "い",
+        "romanization": "i"
+      },
+      {
+        "character": "あ",
+        "romanization": "a"
+      }
+    ]
+  },
+  {
+    "lesson": "L15",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "きって",
+    "romanization": "ki t te",
+    "options": [
+      {
+        "character": "きて",
+        "romanization": "ki te"
+      },
+      {
+        "character": "きつて",
+        "romanization": "ki tsu te"
+      }
+    ]
+  },
+  {
+    "lesson": "L15",
+    "script": "hiragana",
+    "type": "M2",
+    "character": "きっぷ",
+    "romanization": "ki p pu",
+    "options": [
+      {
+        "character": "きぷ",
+        "romanization": "ki pu"
+      },
+      {
+        "character": "きつぷ",
+        "romanization": "ki tsu pu"
+      }
+    ]
+  },
+  {
+    "lesson": "L15",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "さっか",
+    "romanization": "sa k ka",
+    "options": [
+      {
+        "character": "さか",
+        "romanization": "sa ka"
+      },
+      {
+        "character": "さつか",
+        "romanization": "sa tsu ka"
+      }
+    ]
+  },
+  {
+    "lesson": "L15",
+    "script": "hiragana",
+    "type": "M2",
+    "character": "ちょっと",
+    "romanization": "cho t to",
+    "options": [
+      {
+        "character": "ちょと",
+        "romanization": "cho to"
+      },
+      {
+        "character": "ちょつと",
+        "romanization": "cho tsu to"
+      }
+    ]
+  },
+  {
+    "lesson": "L15",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "がっこう",
+    "romanization": "ga k ko u",
+    "options": [
+      {
+        "character": "がつこう",
+        "romanization": "ga tsu ko u"
+      }
+    ]
+  },
+  {
+    "lesson": "L15",
+    "script": "hiragana",
+    "type": "M3",
+    "character": "いっぱい",
+    "romanization": "i p pa i",
+    "options": [
+      {
+        "character": "しっぱい",
+        "romanization": "shi p pa i"
+      },
+      {
+        "character": "ざっし",
+        "romanization": "za s shi"
+      }
+    ]
+  },
+  {
+    "lesson": "L15",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "いっぱい",
+    "romanization": "i p pa i",
+    "options": [
+      {
+        "character": "いぱい",
+        "romanization": "i pa i"
+      },
+      {
+        "character": "いつぱい",
+        "romanization": "i tsu pa i"
+      }
+    ]
+  },
+  {
+    "lesson": "L15",
+    "script": "hiragana",
+    "type": "M5",
+    "character": "ちょっと",
+    "romanization": "cho t to",
+    "options": [
+      {
+        "character": "いっしょ",
+        "romanization": "i s sho"
+      },
+      {
+        "character": "がっこう",
+        "romanization": "ga k ko u"
+      }
+    ]
+  },
+  {
+    "lesson": "L15",
+    "script": "hiragana",
+    "type": "M4",
+    "character": "きって",
+    "romanization": "ki t te",
+    "options": [
+      {
+        "character": "つ",
+        "romanization": "tsu"
+      },
+      {
+        "character": "と",
+        "romanization": "to"
+      }
+    ]
+  },
+  {
+    "lesson": "L15",
+    "script": "hiragana",
+    "type": "M4",
+    "character": "らっきい",
+    "romanization": "ra k ki i",
+    "options": [
+      {
+        "character": "つ",
+        "romanization": "tsu"
+      },
+      {
+        "character": "ろ",
+        "romanization": "ro"
+      }
+    ]
+  },
+  {
+    "lesson": "L15",
+    "script": "hiragana",
+    "type": "M5",
+    "character": "ざっし",
+    "romanization": "za s shi",
+    "options": [
+      {
+        "character": "いっぱい",
+        "romanization": "i p pa i"
+      },
+      {
+        "character": "しっぱい",
+        "romanization": "shi p pa i"
+      }
+    ]
+  },
+  {
+    "lesson": "L15",
+    "script": "hiragana",
+    "type": "M4",
+    "character": "いっぱい",
+    "romanization": "i p pa i",
+    "options": [
+      {
+        "character": "つ",
+        "romanization": "tsu"
+      },
+      {
+        "character": "ば",
+        "romanization": "ba"
+      }
+    ]
+  },
+  {
+    "lesson": "L16",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "きゃ",
+    "romanization": "kya",
+    "options": [
+      {
+        "character": "きや",
+        "romanization": "ki ya"
+      }
+    ]
+  },
+  {
+    "lesson": "L16",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "しゅ",
+    "romanization": "shu",
+    "options": [
+      {
+        "character": "しゆ",
+        "romanization": "shi yu"
+      }
+    ]
+  },
+  {
+    "lesson": "L16",
+    "script": "hiragana",
+    "type": "M0",
+    "character": "ちょ",
+    "romanization": "cho",
+    "options": [
+      {
+        "character": "ちよ",
+        "romanization": "chi yo"
+      }
+    ]
+  },
+  {
+    "lesson": "L16",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "にゃ",
+    "romanization": "nya",
+    "options": [
+      {
+        "character": "にや",
+        "romanization": "ni ya"
+      },
+      {
+        "character": "にゅ",
+        "romanization": "nyu"
+      },
+      {
+        "character": "にょ",
+        "romanization": "nyo"
+      }
+    ]
+  },
+  {
+    "lesson": "L16",
+    "script": "hiragana",
+    "type": "M2",
+    "character": "みゅ",
+    "romanization": "myu",
+    "options": [
+      {
+        "character": "みゆ",
+        "romanization": "mi yu"
+      },
+      {
+        "character": "みゃ",
+        "romanization": "mya"
+      },
+      {
+        "character": "みょ",
+        "romanization": "myo"
+      }
+    ]
+  },
+  {
+    "lesson": "L16",
+    "script": "hiragana",
+    "type": "M1",
+    "character": "ひょ",
+    "romanization": "hyo",
+    "options": [
+      {
+        "character": "ひよ",
+        "romanization": "hi yo"
+      },
+      {
+        "character": "ひゃ",
+        "romanization": "hya"
+      },
+      {
+        "character": "ひゅ",
+        "romanization": "hyu"
+      }
+    ]
+  },
+  {
+    "lesson": "L16",
+    "script": "hiragana",
+    "type": "M2",
+    "character": "きゅ",
+    "romanization": "kyu",
+    "options": [
+      {
+        "character": "きゆ",
+        "romanization": "ki yu"
+      },
+      {
+        "character": "きゃ",
+        "romanization": "kya"
+      },
+      {
+        "character": "きょ",
+        "romanization": "kyo"
+      }
+    ]
+  },
+  {
+    "lesson": "L16",
+    "script": "hiragana",
+    "type": "M3",
+    "character": "りゃ",
+    "romanization": "rya",
+    "options": [
+      {
+        "character": "りゅ",
+        "romanization": "ryu"
+      },
+      {
+        "character": "りょ",
+        "romanization": "ryo"
+      }
+    ]
+  },
+  {
+    "lesson": "L16",
+    "script": "hiragana",
+    "type": "M2",
+    "character": "りゃ",
+    "romanization": "rya",
+    "options": [
+      {
+        "character": "りや",
+        "romanization": "ri ya"
+      },
+      {
+        "character": "りゅ",
+        "romanization": "ryu"
+      },
+      {
+        "character": "りょ",
+        "romanization": "ryo"
+      }
+    ]
+  },
+  {
+    "lesson": "L16",
+    "script": "hiragana",
+    "type": "M3",
+    "character": "ぴゃ",
+    "romanization": "pya",
+    "options": [
+      {
+        "character": "ぴゅ",
+        "romanization": "pyu"
+      },
+      {
+        "character": "ぴょ",
+        "romanization": "pyo"
+      }
+    ]
+  },
+  {
+    "lesson": "L16",
+    "script": "hiragana",
+    "type": "M4",
+    "character": "じゃま",
+    "romanization": "ja ma",
+    "options": [
+      {
+        "character": "じや",
+        "romanization": "ji ya"
+      },
+      {
+        "character": "み",
+        "romanization": "mi"
+      }
+    ]
+  },
+  {
+    "lesson": "L16",
+    "script": "hiragana",
+    "type": "M3",
+    "character": "ぎゃ",
+    "romanization": "gya",
+    "options": [
+      {
+        "character": "ぎゅ",
+        "romanization": "gyu"
+      },
+      {
+        "character": "ぎょ",
+        "romanization": "gyo"
+      }
+    ]
+  },
+  {
+    "lesson": "L16",
+    "script": "hiragana",
+    "type": "M5",
+    "character": "びょ",
+    "romanization": "byo",
+    "options": [
+      {
+        "character": "びゃ",
+        "romanization": "bya"
+      },
+      {
+        "character": "びゅ",
+        "romanization": "byu"
+      }
+    ]
+  },
+  {
+    "lesson": "L16",
+    "script": "hiragana",
+    "type": "M4",
+    "character": "ぎょかい",
+    "romanization": "gyo ka i",
+    "options": [
+      {
+        "character": "ぎよ",
+        "romanization": "gi yo"
+      },
+      {
+        "character": "く",
+        "romanization": "ku"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "katakana",
+    "type": "M0",
+    "character": "カー",
+    "romanization": "ka a",
+    "options": [
+      {
+        "character": "カ",
+        "romanization": "ka"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "katakana",
+    "type": "M1",
+    "character": "キー",
+    "romanization": "ki i",
+    "options": [
+      {
+        "character": "キ",
+        "romanization": "ki"
+      },
+      {
+        "character": "カー",
+        "romanization": "ka a"
+      },
+      {
+        "character": "コー",
+        "romanization": "ko o"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "katakana",
+    "type": "M0",
+    "character": "メー",
+    "romanization": "me e",
+    "options": [
+      {
+        "character": "メ",
+        "romanization": "me"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "katakana",
+    "type": "M1",
+    "character": "カード",
+    "romanization": "ka a do",
+    "options": [
+      {
+        "character": "カド",
+        "romanization": "ka do"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "katakana",
+    "type": "M0",
+    "character": "ペー",
+    "romanization": "pe e",
+    "options": [
+      {
+        "character": "ペ",
+        "romanization": "pe"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "katakana",
+    "type": "M3",
+    "character": "カー",
+    "romanization": "ka a",
+    "options": [
+      {
+        "character": "キー",
+        "romanization": "ki i"
+      },
+      {
+        "character": "コー",
+        "romanization": "ko o"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "katakana",
+    "type": "M4",
+    "character": "コート",
+    "romanization": "ko o to",
+    "options": [
+      {
+        "character": "サ",
+        "romanization": "sa"
+      },
+      {
+        "character": "キ",
+        "romanization": "ki"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "katakana",
+    "type": "M1",
+    "character": "ケーキ",
+    "romanization": "ke e ki",
+    "options": [
+      {
+        "character": "ケキ",
+        "romanization": "ke ki"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "katakana",
+    "type": "M2",
+    "character": "スーパー",
+    "romanization": "su u pa a",
+    "options": [
+      {
+        "character": "スパ",
+        "romanization": "su pa"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "katakana",
+    "type": "M1",
+    "character": "メール",
+    "romanization": "me e ru",
+    "options": [
+      {
+        "character": "メル",
+        "romanization": "me ru"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "katakana",
+    "type": "M2",
+    "character": "ケー",
+    "romanization": "ke e",
+    "options": [
+      {
+        "character": "ケ",
+        "romanization": "ke"
+      },
+      {
+        "character": "スー",
+        "romanization": "su u"
+      },
+      {
+        "character": "メー",
+        "romanization": "me e"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "katakana",
+    "type": "M3",
+    "character": "ケー",
+    "romanization": "ke e",
+    "options": [
+      {
+        "character": "スー",
+        "romanization": "su u"
+      },
+      {
+        "character": "メー",
+        "romanization": "me e"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "katakana",
+    "type": "M5",
+    "character": "ケーキ",
+    "romanization": "ke e ki",
+    "options": [
+      {
+        "character": "スーパー",
+        "romanization": "su u pa a"
+      },
+      {
+        "character": "メール",
+        "romanization": "me e ru"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "katakana",
+    "type": "M4",
+    "character": "メール",
+    "romanization": "me e ru",
+    "options": [
+      {
+        "character": "リ",
+        "romanization": "ri"
+      },
+      {
+        "character": "サ",
+        "romanization": "sa"
+      }
+    ]
+  },
+  {
+    "lesson": "L14",
+    "script": "katakana",
+    "type": "M4",
+    "character": "ページ",
+    "romanization": "pe e ji",
+    "options": [
+      {
+        "character": "ル",
+        "romanization": "ru"
+      },
+      {
+        "character": "コ",
+        "romanization": "ko"
+      }
+    ]
+  }
+]

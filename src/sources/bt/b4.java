@@ -1,0 +1,41 @@
+package bt;
+
+/* JADX INFO: compiled from: r8-map-id-0efd32d2926a16d016bd865e978a6a9d42a5302dcd598811e995dd081929f0a8 */
+/* JADX INFO: loaded from: classes4.dex */
+public final /* synthetic */ class b4 implements fz.e {
+
+    /* JADX INFO: renamed from: a, reason: collision with root package name */
+    public final /* synthetic */ int f5217a;
+
+    /* JADX INFO: renamed from: b, reason: collision with root package name */
+    public final /* synthetic */ ot.n f5218b;
+
+    /* JADX INFO: renamed from: c, reason: collision with root package name */
+    public final /* synthetic */ ht.o f5219c;
+
+    /* JADX INFO: renamed from: d, reason: collision with root package name */
+    public final /* synthetic */ ys.d0 f5220d;
+
+    public /* synthetic */ b4(ot.n nVar, ht.o oVar, ys.d0 d0Var, int i11, int i12) {
+        this.f5217a = i12;
+        this.f5218b = nVar;
+        this.f5219c = oVar;
+        this.f5220d = d0Var;
+    }
+
+    @Override // fz.e
+    public final Object invoke(Object obj, Object obj2) {
+        int i11 = this.f5217a;
+        l1.n nVar = (l1.n) obj;
+        ((Integer) obj2).getClass();
+        switch (i11) {
+            case 0:
+                b.w(this.f5218b, this.f5219c, this.f5220d, nVar, l1.t.M(1));
+                break;
+            default:
+                b.z(this.f5218b, this.f5219c, this.f5220d, nVar, l1.t.M(1));
+                break;
+        }
+        return qy.b0.f48488a;
+    }
+}

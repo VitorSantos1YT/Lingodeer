@@ -1,0 +1,22 @@
+package v7;
+
+import android.util.Range;
+
+/* JADX INFO: compiled from: r8-map-id-0efd32d2926a16d016bd865e978a6a9d42a5302dcd598811e995dd081929f0a8 */
+/* JADX INFO: loaded from: classes.dex */
+public abstract class v {
+
+    /* JADX INFO: renamed from: a, reason: collision with root package name */
+    public long f53694a;
+
+    /* JADX INFO: renamed from: b, reason: collision with root package name */
+    public long f53695b;
+
+    /* JADX INFO: renamed from: c, reason: collision with root package name */
+    public double f53696c;
+
+    /* JADX INFO: renamed from: d, reason: collision with root package name */
+    public Range f53697d;
+
+    public abstract void a();
+}

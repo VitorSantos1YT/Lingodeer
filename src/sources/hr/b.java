@@ -1,0 +1,28 @@
+package hr;
+
+/* JADX INFO: compiled from: r8-map-id-0efd32d2926a16d016bd865e978a6a9d42a5302dcd598811e995dd081929f0a8 */
+/* JADX INFO: loaded from: classes3.dex */
+public final class b implements c {
+
+    /* JADX INFO: renamed from: a, reason: collision with root package name */
+    public final boolean f33691a;
+
+    public b(boolean z11) {
+        this.f33691a = z11;
+    }
+
+    public final boolean equals(Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        return (obj instanceof b) && this.f33691a == ((b) obj).f33691a;
+    }
+
+    public final int hashCode() {
+        return Boolean.hashCode(this.f33691a);
+    }
+
+    public final String toString() {
+        return ep.a.i("Success(isUnLoginUser=", ")", this.f33691a);
+    }
+}

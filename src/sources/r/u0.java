@@ -1,0 +1,18 @@
+package r;
+
+import android.text.StaticLayout;
+import android.widget.TextView;
+
+/* JADX INFO: compiled from: r8-map-id-0efd32d2926a16d016bd865e978a6a9d42a5302dcd598811e995dd081929f0a8 */
+/* JADX INFO: loaded from: classes.dex */
+public final class u0 extends t0 {
+    @Override // r.t0, r.v0
+    public void a(StaticLayout.Builder builder, TextView textView) {
+        builder.setTextDirection(textView.getTextDirectionHeuristic());
+    }
+
+    @Override // r.v0
+    public boolean b(TextView textView) {
+        return textView.isHorizontallyScrollable();
+    }
+}

@@ -1,0 +1,23 @@
+package com.google.zxing;
+
+/* JADX INFO: compiled from: r8-map-id-0efd32d2926a16d016bd865e978a6a9d42a5302dcd598811e995dd081929f0a8 */
+/* JADX INFO: loaded from: classes3.dex */
+public enum DecodeHintType {
+    OTHER("OTHER"),
+    PURE_BARCODE("PURE_BARCODE"),
+    POSSIBLE_FORMATS("POSSIBLE_FORMATS"),
+    TRY_HARDER("TRY_HARDER"),
+    CHARACTER_SET("CHARACTER_SET"),
+    ALLOWED_LENGTHS("ALLOWED_LENGTHS"),
+    ASSUME_CODE_39_CHECK_DIGIT("ASSUME_CODE_39_CHECK_DIGIT"),
+    ASSUME_GS1("ASSUME_GS1"),
+    RETURN_CODABAR_START_END("RETURN_CODABAR_START_END"),
+    NEED_RESULT_POINT_CALLBACK("NEED_RESULT_POINT_CALLBACK"),
+    ALLOWED_EAN_EXTENSIONS("ALLOWED_EAN_EXTENSIONS");
+
+    private final Class<?> valueType;
+
+    DecodeHintType(String str) {
+        this.valueType = cls;
+    }
+}

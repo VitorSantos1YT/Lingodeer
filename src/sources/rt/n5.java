@@ -1,0 +1,39 @@
+package rt;
+
+import java.util.ArrayList;
+
+/* JADX INFO: compiled from: r8-map-id-0efd32d2926a16d016bd865e978a6a9d42a5302dcd598811e995dd081929f0a8 */
+/* JADX INFO: loaded from: classes4.dex */
+public final class n5 extends xy.c {
+
+    /* JADX INFO: renamed from: a, reason: collision with root package name */
+    public boolean f50122a;
+
+    /* JADX INFO: renamed from: b, reason: collision with root package name */
+    public ArrayList f50123b;
+
+    /* JADX INFO: renamed from: c, reason: collision with root package name */
+    public int f50124c;
+
+    /* JADX INFO: renamed from: d, reason: collision with root package name */
+    public /* synthetic */ Object f50125d;
+
+    /* JADX INFO: renamed from: e, reason: collision with root package name */
+    public final /* synthetic */ r5 f50126e;
+
+    /* JADX INFO: renamed from: f, reason: collision with root package name */
+    public int f50127f;
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    public n5(r5 r5Var, vy.d dVar) {
+        super(dVar);
+        this.f50126e = r5Var;
+    }
+
+    @Override // xy.a
+    public final Object invokeSuspend(Object obj) {
+        this.f50125d = obj;
+        this.f50127f |= Integer.MIN_VALUE;
+        return r5.d(this.f50126e, false, this);
+    }
+}

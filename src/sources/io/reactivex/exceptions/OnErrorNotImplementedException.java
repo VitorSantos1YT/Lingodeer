@@ -1,0 +1,11 @@
+package io.reactivex.exceptions;
+
+/* JADX INFO: compiled from: r8-map-id-0efd32d2926a16d016bd865e978a6a9d42a5302dcd598811e995dd081929f0a8 */
+/* JADX INFO: loaded from: classes4.dex */
+public final class OnErrorNotImplementedException extends RuntimeException {
+    private static final long serialVersionUID = -6298857009889503852L;
+
+    public OnErrorNotImplementedException(Throwable th2) {
+        super("The exception was not handled due to missing onError handler in the subscribe() method call. Further reading: https://github.com/ReactiveX/RxJava/wiki/Error-Handling | " + th2, th2 == null ? new NullPointerException() : th2);
+    }
+}

@@ -1,0 +1,50 @@
+package com.alibaba.sdk.android.oss.model;
+
+/* JADX INFO: compiled from: r8-map-id-0efd32d2926a16d016bd865e978a6a9d42a5302dcd598811e995dd081929f0a8 */
+/* JADX INFO: loaded from: classes.dex */
+public class CreateBucketRequest extends OSSRequest {
+    public static final String TAB_LOCATIONCONSTRAINT = "LocationConstraint";
+    public static final String TAB_STORAGECLASS = "StorageClass";
+    private CannedAccessControlList bucketACL;
+    private String bucketName;
+    private StorageClass bucketStorageClass = StorageClass.Standard;
+    private String locationConstraint;
+
+    public CreateBucketRequest(String str) {
+        setBucketName(str);
+    }
+
+    public CannedAccessControlList getBucketACL() {
+        return this.bucketACL;
+    }
+
+    public String getBucketName() {
+        return this.bucketName;
+    }
+
+    public StorageClass getBucketStorageClass() {
+        return this.bucketStorageClass;
+    }
+
+    @Deprecated
+    public String getLocationConstraint() {
+        return this.locationConstraint;
+    }
+
+    public void setBucketACL(CannedAccessControlList cannedAccessControlList) {
+        this.bucketACL = cannedAccessControlList;
+    }
+
+    public void setBucketName(String str) {
+        this.bucketName = str;
+    }
+
+    public void setBucketStorageClass(StorageClass storageClass) {
+        this.bucketStorageClass = storageClass;
+    }
+
+    @Deprecated
+    public void setLocationConstraint(String str) {
+        this.locationConstraint = str;
+    }
+}

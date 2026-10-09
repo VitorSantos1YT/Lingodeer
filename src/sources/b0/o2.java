@@ -1,0 +1,10 @@
+package b0;
+
+/* JADX INFO: compiled from: r8-map-id-0efd32d2926a16d016bd865e978a6a9d42a5302dcd598811e995dd081929f0a8 */
+/* JADX INFO: loaded from: classes.dex */
+public interface o2 extends l2 {
+    @Override // b0.l2
+    default boolean c() {
+        return false;
+    }
+}

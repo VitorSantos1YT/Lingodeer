@@ -1,0 +1,548 @@
+[
+  {
+    "Lesson": "L1",
+    "Type": "分辨音频",
+    "Word": "한국어",
+    "Pronunciation": "한구거",
+    "Romanization": "han-gug-eo"
+  },
+  {
+    "Lesson": "L1",
+    "Type": "分辨音频",
+    "Word": "알아요",
+    "Pronunciation": "아라요",
+    "Romanization": "al-a-yo"
+  },
+  {
+    "Lesson": "L1",
+    "Type": "分辨音频",
+    "Word": "옷이",
+    "Pronunciation": "오시",
+    "Romanization": "os-i"
+  },
+  {
+    "Lesson": "L1",
+    "Type": "分辨音频",
+    "Word": "앞으로",
+    "Pronunciation": "아프로",
+    "Romanization": "ap-eu-lo"
+  },
+  {
+    "Lesson": "L1",
+    "Type": "分辨音频",
+    "Word": "낮이",
+    "Pronunciation": "나지",
+    "Romanization": "naj-i"
+  },
+  {
+    "Lesson": "L1",
+    "Type": "写正确发音",
+    "Word": "먹어요",
+    "Pronunciation": "머거요",
+    "Romanization": "meog-eo-yo"
+  },
+  {
+    "Lesson": "L1",
+    "Type": "写正确发音",
+    "Word": "있어요",
+    "Pronunciation": "이써요",
+    "Romanization": "iss-eo-yo"
+  },
+  {
+    "Lesson": "L2",
+    "Type": "分辨音频",
+    "Word": "맑아요",
+    "Pronunciation": "말가요",
+    "Romanization": "malg-a-yo"
+  },
+  {
+    "Lesson": "L2",
+    "Type": "分辨音频",
+    "Word": "젊어요",
+    "Pronunciation": "절머요",
+    "Romanization": "jeolm-eo-yo"
+  },
+  {
+    "Lesson": "L2",
+    "Type": "分辨音频",
+    "Word": "핥아요",
+    "Pronunciation": "할타요",
+    "Romanization": "halt-a-yo"
+  },
+  {
+    "Lesson": "L2",
+    "Type": "分辨音频",
+    "Word": "많으면",
+    "Pronunciation": "마느면",
+    "Romanization": "manh-eu-myeon"
+  },
+  {
+    "Lesson": "L2",
+    "Type": "分辨音频",
+    "Word": "낡아요",
+    "Pronunciation": "날가요",
+    "Romanization": "nalg-a-yo"
+  },
+  {
+    "Lesson": "L2",
+    "Type": "写正确发音",
+    "Word": "앉아",
+    "Pronunciation": "안자",
+    "Romanization": "anj-a"
+  },
+  {
+    "Lesson": "L2",
+    "Type": "写正确发音",
+    "Word": "읽어요",
+    "Pronunciation": "일거요",
+    "Romanization": "ilg-eo-yo"
+  },
+  {
+    "Lesson": "L3",
+    "Type": "分辨音频",
+    "Word": "좋아요",
+    "Pronunciation": "조아요",
+    "Romanization": "joh-a-yo"
+  },
+  {
+    "Lesson": "L3",
+    "Type": "分辨音频",
+    "Word": "쌓이다",
+    "Pronunciation": "싸이다",
+    "Romanization": "ssah-i-da"
+  },
+  {
+    "Lesson": "L3",
+    "Type": "分辨音频",
+    "Word": "싫어요",
+    "Pronunciation": "시러요",
+    "Romanization": "silh-eo-yo"
+  },
+  {
+    "Lesson": "L3",
+    "Type": "分辨音频",
+    "Word": "같이",
+    "Pronunciation": "가치",
+    "Romanization": "gat-i"
+  },
+  {
+    "Lesson": "L3",
+    "Type": "分辨音频",
+    "Word": "굳이",
+    "Pronunciation": "구지",
+    "Romanization": "gud-i"
+  },
+  {
+    "Lesson": "L3",
+    "Type": "写正确发音",
+    "Word": "낳은",
+    "Pronunciation": "나은",
+    "Romanization": "nah-eun"
+  },
+  {
+    "Lesson": "L3",
+    "Type": "写正确发音",
+    "Word": "같이",
+    "Pronunciation": "가치",
+    "Romanization": "gat-i"
+  },
+  {
+    "Lesson": "L4",
+    "Type": "分辨音频",
+    "Word": "박하",
+    "Pronunciation": "바카",
+    "Romanization": "bag-ha"
+  },
+  {
+    "Lesson": "L4",
+    "Type": "分辨音频",
+    "Word": "백화점",
+    "Pronunciation": "배콰점",
+    "Romanization": "baeg-hwa-jeom"
+  },
+  {
+    "Lesson": "L4",
+    "Type": "分辨音频",
+    "Word": "산책하다",
+    "Pronunciation": "산채카다",
+    "Romanization": "san-chaeg-ha-da"
+  },
+  {
+    "Lesson": "L4",
+    "Type": "分辨音频",
+    "Word": "따뜻하다",
+    "Pronunciation": "따뜨타다",
+    "Romanization": "tta-tteus-ha-da"
+  },
+  {
+    "Lesson": "L4",
+    "Type": "分辨音频",
+    "Word": "힙합",
+    "Pronunciation": "히팝",
+    "Romanization": "hib-hab"
+  },
+  {
+    "Lesson": "L4",
+    "Type": "分辨音频",
+    "Word": "잊히다",
+    "Pronunciation": "이치다",
+    "Romanization": "ij-hi-da"
+  },
+  {
+    "Lesson": "L4",
+    "Type": "写正确发音",
+    "Word": "좋다",
+    "Pronunciation": "조타",
+    "Romanization": "joh-da"
+  },
+  {
+    "Lesson": "L4",
+    "Type": "写正确发音",
+    "Word": "많다",
+    "Pronunciation": "만타",
+    "Romanization": "manh-da"
+  },
+  {
+    "Lesson": "Test1",
+    "Type": "分辨音频",
+    "Word": "낳은",
+    "Pronunciation": "나은",
+    "Romanization": "nah-eun"
+  },
+  {
+    "Lesson": "Test1",
+    "Type": "分辨音频",
+    "Word": "앉아",
+    "Pronunciation": "안자",
+    "Romanization": "anj-a"
+  },
+  {
+    "Lesson": "Test1",
+    "Type": "分辨音频",
+    "Word": "깎아",
+    "Pronunciation": "까까",
+    "Romanization": "kkakk-a"
+  },
+  {
+    "Lesson": "Test1",
+    "Type": "分辨音频",
+    "Word": "낡아요",
+    "Pronunciation": "날가요",
+    "Romanization": "nalg-a-yo"
+  },
+  {
+    "Lesson": "Test1",
+    "Type": "分辨音频",
+    "Word": "많으면",
+    "Pronunciation": "마느면",
+    "Romanization": "manh-eu-myeon"
+  },
+  {
+    "Lesson": "Test1",
+    "Type": "分辨音频",
+    "Word": "많고",
+    "Pronunciation": "만코",
+    "Romanization": "manh-go"
+  },
+  {
+    "Lesson": "Test1",
+    "Type": "分辨音频",
+    "Word": "놓고",
+    "Pronunciation": "노코",
+    "Romanization": "noh-go"
+  },
+  {
+    "Lesson": "Test1",
+    "Type": "分辨音频",
+    "Word": "깨끗하다",
+    "Pronunciation": "깨끄타다",
+    "Romanization": "kkae-kkeus-ha-da"
+  },
+  {
+    "Lesson": "Test1",
+    "Type": "写正确发音",
+    "Word": "작아요",
+    "Pronunciation": "자가요",
+    "Romanization": "jag-a-yo"
+  },
+  {
+    "Lesson": "Test1",
+    "Type": "写正确发音",
+    "Word": "같이",
+    "Pronunciation": "가치",
+    "Romanization": "gat-i"
+  },
+  {
+    "Lesson": "Test1",
+    "Type": "写正确发音",
+    "Word": "넓히다",
+    "Pronunciation": "널피다",
+    "Romanization": "neolb-hi-da"
+  },
+  {
+    "Lesson": "Test1",
+    "Type": "写正确发音",
+    "Word": "멋있어요",
+    "Pronunciation": "머시써요",
+    "Romanization": "meos-iss-eo-yo"
+  },
+  {
+    "Lesson": "Test1",
+    "Type": "写正确发音",
+    "Word": "맏형",
+    "Pronunciation": "마텽",
+    "Romanization": "mad-hyeong"
+  },
+  {
+    "Lesson": "L5",
+    "Type": "分辨音频",
+    "Word": "학교",
+    "Pronunciation": "학꾜",
+    "Romanization": "hag-gyo"
+  },
+  {
+    "Lesson": "L5",
+    "Type": "分辨音频",
+    "Word": "없다",
+    "Pronunciation": "업따",
+    "Romanization": "eobs-da"
+  },
+  {
+    "Lesson": "L5",
+    "Type": "分辨音频",
+    "Word": "없어요",
+    "Pronunciation": "업써요",
+    "Romanization": "eobs-eo-yo"
+  },
+  {
+    "Lesson": "L5",
+    "Type": "分辨音频",
+    "Word": "값이",
+    "Pronunciation": "갑씨",
+    "Romanization": "gabs-i"
+  },
+  {
+    "Lesson": "L5",
+    "Type": "分辨音频",
+    "Word": "있지",
+    "Pronunciation": "읻찌",
+    "Romanization": "iss-ji"
+  },
+  {
+    "Lesson": "L5",
+    "Type": "分辨音频",
+    "Word": "잡지",
+    "Pronunciation": "잡찌",
+    "Romanization": "jab-ji"
+  },
+  {
+    "Lesson": "L5",
+    "Type": "分辨音频",
+    "Word": "웃다",
+    "Pronunciation": "욷따",
+    "Romanization": "us-da"
+  },
+  {
+    "Lesson": "L5",
+    "Type": "分辨音频",
+    "Word": "국가",
+    "Pronunciation": "국까",
+    "Romanization": "gug-ga"
+  },
+  {
+    "Lesson": "L5",
+    "Type": "写正确发音",
+    "Word": "먹다",
+    "Pronunciation": "먹따",
+    "Romanization": "meog-da"
+  },
+  {
+    "Lesson": "L5",
+    "Type": "写正确发音",
+    "Word": "학생",
+    "Pronunciation": "학쌩",
+    "Romanization": "hag-saeng"
+  },
+  {
+    "Lesson": "L6",
+    "Type": "分辨音频",
+    "Word": "십만",
+    "Pronunciation": "심만",
+    "Romanization": "sib-man"
+  },
+  {
+    "Lesson": "L6",
+    "Type": "分辨音频",
+    "Word": "박물관",
+    "Pronunciation": "방물관",
+    "Romanization": "bag-mul-gwan"
+  },
+  {
+    "Lesson": "L6",
+    "Type": "分辨音频",
+    "Word": "백만",
+    "Pronunciation": "뱅만",
+    "Romanization": "baeg-man"
+  },
+  {
+    "Lesson": "L6",
+    "Type": "分辨音频",
+    "Word": "작년",
+    "Pronunciation": "장년",
+    "Romanization": "jag-nyeon"
+  },
+  {
+    "Lesson": "L6",
+    "Type": "分辨音频",
+    "Word": "있는",
+    "Pronunciation": "인는",
+    "Romanization": "iss-neun"
+  },
+  {
+    "Lesson": "L6",
+    "Type": "写正确发音",
+    "Word": "먹는",
+    "Pronunciation": "멍는",
+    "Romanization": "meog-neun"
+  },
+  {
+    "Lesson": "L6",
+    "Type": "写正确发音",
+    "Word": "입니다",
+    "Pronunciation": "임니다",
+    "Romanization": "ib-ni-da"
+  },
+  {
+    "Lesson": "L7",
+    "Type": "分辨音频",
+    "Word": "난로",
+    "Pronunciation": "날로",
+    "Romanization": "nan-lo"
+  },
+  {
+    "Lesson": "L7",
+    "Type": "分辨音频",
+    "Word": "천리",
+    "Pronunciation": "철리",
+    "Romanization": "cheon-li"
+  },
+  {
+    "Lesson": "L7",
+    "Type": "分辨音频",
+    "Word": "진리",
+    "Pronunciation": "질리",
+    "Romanization": "jin-li"
+  },
+  {
+    "Lesson": "L7",
+    "Type": "分辨音频",
+    "Word": "찬란한",
+    "Pronunciation": "찰란한",
+    "Romanization": "chan-lan-han"
+  },
+  {
+    "Lesson": "L7",
+    "Type": "写正确发音",
+    "Word": "신라",
+    "Pronunciation": "실라",
+    "Romanization": "sin-la"
+  },
+  {
+    "Lesson": "L7",
+    "Type": "写正确发音",
+    "Word": "난리",
+    "Pronunciation": "날리",
+    "Romanization": "nan-li"
+  },
+  {
+    "Lesson": "Test2",
+    "Type": "分辨音频",
+    "Word": "국적",
+    "Pronunciation": "국쩍",
+    "Romanization": "gug-jeog"
+  },
+  {
+    "Lesson": "Test2",
+    "Type": "分辨音频",
+    "Word": "없이",
+    "Pronunciation": "업씨",
+    "Romanization": "eobs-i"
+  },
+  {
+    "Lesson": "Test2",
+    "Type": "分辨音频",
+    "Word": "국물",
+    "Pronunciation": "궁물",
+    "Romanization": "gug-mul"
+  },
+  {
+    "Lesson": "Test2",
+    "Type": "分辨音频",
+    "Word": "닫다",
+    "Pronunciation": "닫따",
+    "Romanization": "dad-da"
+  },
+  {
+    "Lesson": "Test2",
+    "Type": "分辨音频",
+    "Word": "값은",
+    "Pronunciation": "갑쓴",
+    "Romanization": "gabs-eun"
+  },
+  {
+    "Lesson": "Test2",
+    "Type": "分辨音频",
+    "Word": "난리",
+    "Pronunciation": "날리",
+    "Romanization": "nan-li"
+  },
+  {
+    "Lesson": "Test2",
+    "Type": "分辨音频",
+    "Word": "밥먹다",
+    "Pronunciation": "밤먹따",
+    "Romanization": "bab-meog-da"
+  },
+  {
+    "Lesson": "Test2",
+    "Type": "分辨音频",
+    "Word": "신라",
+    "Pronunciation": "실라",
+    "Romanization": "sin-la"
+  },
+  {
+    "Lesson": "Test2",
+    "Type": "写正确发音",
+    "Word": "책상",
+    "Pronunciation": "책쌍",
+    "Romanization": "chaeg-sang"
+  },
+  {
+    "Lesson": "Test2",
+    "Type": "写正确发音",
+    "Word": "진리",
+    "Pronunciation": "질리",
+    "Romanization": "jin-li"
+  },
+  {
+    "Lesson": "Test2",
+    "Type": "写正确发音",
+    "Word": "박물관",
+    "Pronunciation": "방물관",
+    "Romanization": "bag-mul-gwan"
+  },
+  {
+    "Lesson": "Test2",
+    "Type": "写正确发音",
+    "Word": "있는",
+    "Pronunciation": "인는",
+    "Romanization": "iss-neun"
+  },
+  {
+    "Lesson": "Test2",
+    "Type": "写正确发音",
+    "Word": "식당",
+    "Pronunciation": "식땅",
+    "Romanization": "sig-dang"
+  }
+]

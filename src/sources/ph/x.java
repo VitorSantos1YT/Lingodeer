@@ -1,0 +1,31 @@
+package ph;
+
+/* JADX INFO: compiled from: r8-map-id-0efd32d2926a16d016bd865e978a6a9d42a5302dcd598811e995dd081929f0a8 */
+/* JADX INFO: loaded from: classes3.dex */
+public final class x extends xy.c {
+
+    /* JADX INFO: renamed from: a, reason: collision with root package name */
+    public long f46928a;
+
+    /* JADX INFO: renamed from: b, reason: collision with root package name */
+    public /* synthetic */ Object f46929b;
+
+    /* JADX INFO: renamed from: c, reason: collision with root package name */
+    public final /* synthetic */ y f46930c;
+
+    /* JADX INFO: renamed from: d, reason: collision with root package name */
+    public int f46931d;
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    public x(y yVar, vy.d dVar) {
+        super(dVar);
+        this.f46930c = yVar;
+    }
+
+    @Override // xy.a
+    public final Object invokeSuspend(Object obj) {
+        this.f46929b = obj;
+        this.f46931d |= Integer.MIN_VALUE;
+        return this.f46930c.a(null, this);
+    }
+}

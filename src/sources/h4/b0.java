@@ -1,0 +1,352 @@
+package h4;
+
+import android.content.Context;
+import android.content.res.TypedArray;
+import android.content.res.XmlResourceParser;
+import android.util.SparseArray;
+import android.util.Xml;
+import android.view.View;
+import androidx.constraintlayout.motion.widget.MotionHelper;
+import androidx.constraintlayout.motion.widget.MotionLayout;
+import com.yalantis.ucrop.view.CropImageView;
+import java.util.ArrayList;
+import java.util.HashMap;
+
+/* JADX INFO: compiled from: r8-map-id-0efd32d2926a16d016bd865e978a6a9d42a5302dcd598811e995dd081929f0a8 */
+/* JADX INFO: loaded from: classes.dex */
+public final class b0 implements View.OnClickListener {
+
+    /* JADX INFO: renamed from: a, reason: collision with root package name */
+    public final c0 f31558a;
+
+    /* JADX INFO: renamed from: b, reason: collision with root package name */
+    public final int f31559b;
+
+    /* JADX INFO: renamed from: c, reason: collision with root package name */
+    public final int f31560c;
+
+    public b0(Context context, c0 c0Var, XmlResourceParser xmlResourceParser) {
+        this.f31559b = -1;
+        this.f31560c = 17;
+        this.f31558a = c0Var;
+        TypedArray typedArrayObtainStyledAttributes = context.obtainStyledAttributes(Xml.asAttributeSet(xmlResourceParser), j4.t.f36049y);
+        int indexCount = typedArrayObtainStyledAttributes.getIndexCount();
+        for (int i11 = 0; i11 < indexCount; i11++) {
+            int index = typedArrayObtainStyledAttributes.getIndex(i11);
+            if (index == 1) {
+                this.f31559b = typedArrayObtainStyledAttributes.getResourceId(index, this.f31559b);
+            } else if (index == 0) {
+                this.f31560c = typedArrayObtainStyledAttributes.getInt(index, this.f31560c);
+            }
+        }
+        typedArrayObtainStyledAttributes.recycle();
+    }
+
+    public final void a(MotionLayout motionLayout, int i11, c0 c0Var) {
+        boolean z11;
+        View viewFindViewById;
+        int i12 = this.f31559b;
+        View view = motionLayout;
+        if (i12 != -1) {
+            viewFindViewById = motionLayout.findViewById(i12);
+        }
+        if (view == null) {
+            view = viewFindViewById;
+            return;
+        }
+        int i13 = c0Var.f31568d;
+        int i14 = c0Var.f31567c;
+        if (i13 == -1) {
+            view = viewFindViewById;
+            view.setOnClickListener(this);
+            return;
+        }
+        int i15 = this.f31560c;
+        int i16 = i15 & 1;
+        boolean z12 = false;
+        if (i16 == 0 || i11 != i13) {
+            view = viewFindViewById;
+            z11 = false;
+        } else {
+            z11 = true;
+        }
+        boolean z13 = (i16 != 0 && i11 == i13) | z11 | ((i15 & 256) != 0 && i11 == i13) | ((i15 & 16) != 0 && i11 == i14);
+        if ((i15 & 4096) != 0 && i11 == i14) {
+            z12 = true;
+        }
+        if (z13 || z12) {
+            view.setOnClickListener(this);
+        }
+    }
+
+    @Override // android.view.View.OnClickListener
+    public final void onClick(View view) {
+        com.android.billingclient.api.c0 c0Var;
+        Object obj;
+        c0 c0Var2 = this.f31558a;
+        d0 d0Var = c0Var2.f31574j;
+        MotionLayout motionLayout = d0Var.f31583a;
+        if (motionLayout.f1277e0) {
+            if (c0Var2.f31568d != -1) {
+                boolean z11 = false;
+                boolean z12 = true;
+                c0 c0Var3 = d0Var.f31585c;
+                int i11 = this.f31560c;
+                int i12 = i11 & 1;
+                boolean z13 = (i12 == 0 && (i11 & 256) == 0) ? false : true;
+                int i13 = i11 & 16;
+                if (i13 == 0 && (i11 & 4096) == 0) {
+                    z12 = false;
+                }
+                if (z13 && z12) {
+                    if (c0Var3 != c0Var2) {
+                        motionLayout.setTransition(c0Var2);
+                    }
+                    if (motionLayout.getCurrentState() != motionLayout.getEndState() && motionLayout.getProgress() <= 0.5f) {
+                        z12 = false;
+                        z11 = z13;
+                    }
+                } else {
+                    z11 = z13;
+                }
+                if (c0Var2 != c0Var3) {
+                    int i14 = c0Var2.f31567c;
+                    int i15 = c0Var2.f31568d;
+                    if (i15 != -1) {
+                        int i16 = motionLayout.f1269a0;
+                        if (i16 != i15 && i16 != i14) {
+                            return;
+                        }
+                    } else if (motionLayout.f1269a0 == i14) {
+                        return;
+                    }
+                }
+                if (z11 && i12 != 0) {
+                    motionLayout.setTransition(c0Var2);
+                    motionLayout.r(1.0f);
+                    motionLayout.X0 = null;
+                    return;
+                }
+                if (z12 && i13 != 0) {
+                    motionLayout.setTransition(c0Var2);
+                    motionLayout.r(CropImageView.DEFAULT_ASPECT_RATIO);
+                    return;
+                } else if (z11 && (i11 & 256) != 0) {
+                    motionLayout.setTransition(c0Var2);
+                    motionLayout.setProgress(1.0f);
+                    return;
+                } else {
+                    if (!z12 || (i11 & 4096) == 0) {
+                        return;
+                    }
+                    motionLayout.setTransition(c0Var2);
+                    motionLayout.setProgress(CropImageView.DEFAULT_ASPECT_RATIO);
+                    return;
+                }
+            }
+            int currentState = motionLayout.getCurrentState();
+            if (currentState != -1) {
+                c0 c0Var4 = new c0(d0Var, c0Var2);
+                c0Var4.f31568d = currentState;
+                c0Var4.f31567c = c0Var2.f31567c;
+                motionLayout.setTransition(c0Var4);
+                motionLayout.r(1.0f);
+                motionLayout.X0 = null;
+                return;
+            }
+            int i17 = c0Var2.f31567c;
+            if (!motionLayout.isAttachedToWindow()) {
+                if (motionLayout.W0 == null) {
+                    motionLayout.W0 = new x(motionLayout);
+                }
+                motionLayout.W0.f31803d = i17;
+                return;
+            }
+            v vVar = motionLayout.f1272b1;
+            HashMap map = motionLayout.f1278f0;
+            d0 d0Var2 = motionLayout.S;
+            if (d0Var2 != null && (c0Var = d0Var2.f31584b) != null) {
+                int i18 = motionLayout.f1269a0;
+                float f5 = -1;
+                j4.w wVar = (j4.w) ((SparseArray) c0Var.f7471c).get(i17);
+                if (wVar != null) {
+                    ArrayList arrayList = wVar.f36053b;
+                    int i19 = wVar.f36054c;
+                    if (f5 != -1.0f && f5 != -1.0f) {
+                        int size = arrayList.size();
+                        int i21 = 0;
+                        j4.x xVar = null;
+                        while (true) {
+                            if (i21 >= size) {
+                                if (xVar != null) {
+                                    i18 = xVar.f36059e;
+                                    break;
+                                } else {
+                                    i18 = i19;
+                                    break;
+                                }
+                            }
+                            Object obj2 = arrayList.get(i21);
+                            i21++;
+                            j4.x xVar2 = (j4.x) obj2;
+                            if (xVar2.a(f5, f5)) {
+                                if (i18 == xVar2.f36059e) {
+                                    break;
+                                } else {
+                                    xVar = xVar2;
+                                }
+                            }
+                        }
+                    } else if (i19 != i18) {
+                        int size2 = arrayList.size();
+                        int i22 = 0;
+                        do {
+                            if (i22 >= size2) {
+                                i18 = i19;
+                                break;
+                            } else {
+                                obj = arrayList.get(i22);
+                                i22++;
+                            }
+                        } while (i18 != ((j4.x) obj).f36059e);
+                    }
+                } else {
+                    i18 = i17;
+                }
+                if (i18 != -1) {
+                    i17 = i18;
+                }
+            }
+            int i23 = motionLayout.f1269a0;
+            if (i23 == i17) {
+                return;
+            }
+            if (motionLayout.W == i17) {
+                motionLayout.r(CropImageView.DEFAULT_ASPECT_RATIO);
+                return;
+            }
+            if (motionLayout.f1271b0 == i17) {
+                motionLayout.r(1.0f);
+                return;
+            }
+            motionLayout.f1271b0 = i17;
+            if (i23 != -1) {
+                motionLayout.E(i23, i17);
+                motionLayout.r(1.0f);
+                motionLayout.f1283j0 = CropImageView.DEFAULT_ASPECT_RATIO;
+                motionLayout.r(1.0f);
+                motionLayout.X0 = null;
+                return;
+            }
+            motionLayout.f1291r0 = false;
+            motionLayout.f1285l0 = 1.0f;
+            motionLayout.f1282i0 = CropImageView.DEFAULT_ASPECT_RATIO;
+            motionLayout.f1283j0 = CropImageView.DEFAULT_ASPECT_RATIO;
+            motionLayout.f1284k0 = motionLayout.getNanoTime();
+            motionLayout.f1279g0 = motionLayout.getNanoTime();
+            motionLayout.f1286m0 = false;
+            motionLayout.T = null;
+            motionLayout.f1281h0 = motionLayout.S.c() / 1000.0f;
+            motionLayout.W = -1;
+            motionLayout.S.n(-1, motionLayout.f1271b0);
+            SparseArray sparseArray = new SparseArray();
+            int childCount = motionLayout.getChildCount();
+            map.clear();
+            for (int i24 = 0; i24 < childCount; i24++) {
+                View childAt = motionLayout.getChildAt(i24);
+                map.put(childAt, new q(childAt));
+                sparseArray.put(childAt.getId(), (q) map.get(childAt));
+            }
+            motionLayout.f1287n0 = true;
+            vVar.e(null, motionLayout.S.b(i17));
+            motionLayout.C();
+            vVar.a();
+            int childCount2 = motionLayout.getChildCount();
+            for (int i25 = 0; i25 < childCount2; i25++) {
+                View childAt2 = motionLayout.getChildAt(i25);
+                q qVar = (q) map.get(childAt2);
+                if (qVar != null) {
+                    a0 a0Var = qVar.f31752f;
+                    a0Var.f31553c = CropImageView.DEFAULT_ASPECT_RATIO;
+                    a0Var.f31554d = CropImageView.DEFAULT_ASPECT_RATIO;
+                    a0Var.e(childAt2.getX(), childAt2.getY(), childAt2.getWidth(), childAt2.getHeight());
+                    o oVar = qVar.f31754h;
+                    oVar.getClass();
+                    childAt2.getX();
+                    childAt2.getY();
+                    childAt2.getWidth();
+                    childAt2.getHeight();
+                    oVar.f31740c = childAt2.getVisibility();
+                    oVar.f31742e = childAt2.getVisibility() != 0 ? 0.0f : childAt2.getAlpha();
+                    oVar.f31743f = childAt2.getElevation();
+                    oVar.f31744t = childAt2.getRotation();
+                    oVar.H = childAt2.getRotationX();
+                    oVar.f31738a = childAt2.getRotationY();
+                    oVar.K = childAt2.getScaleX();
+                    oVar.L = childAt2.getScaleY();
+                    oVar.M = childAt2.getPivotX();
+                    oVar.N = childAt2.getPivotY();
+                    oVar.O = childAt2.getTranslationX();
+                    oVar.P = childAt2.getTranslationY();
+                    oVar.Q = childAt2.getTranslationZ();
+                }
+            }
+            int width = motionLayout.getWidth();
+            int height = motionLayout.getHeight();
+            if (motionLayout.F0 != null) {
+                for (int i26 = 0; i26 < childCount; i26++) {
+                    q qVar2 = (q) map.get(motionLayout.getChildAt(i26));
+                    if (qVar2 != null) {
+                        motionLayout.S.f(qVar2);
+                    }
+                }
+                ArrayList arrayList2 = motionLayout.F0;
+                int size3 = arrayList2.size();
+                int i27 = 0;
+                while (i27 < size3) {
+                    Object obj3 = arrayList2.get(i27);
+                    i27++;
+                    ((MotionHelper) obj3).r(motionLayout, map);
+                }
+                for (int i28 = 0; i28 < childCount; i28++) {
+                    q qVar3 = (q) map.get(motionLayout.getChildAt(i28));
+                    if (qVar3 != null) {
+                        qVar3.i(motionLayout.getNanoTime(), width, height);
+                    }
+                }
+            } else {
+                for (int i29 = 0; i29 < childCount; i29++) {
+                    q qVar4 = (q) map.get(motionLayout.getChildAt(i29));
+                    if (qVar4 != null) {
+                        motionLayout.S.f(qVar4);
+                        qVar4.i(motionLayout.getNanoTime(), width, height);
+                    }
+                }
+            }
+            c0 c0Var5 = motionLayout.S.f31585c;
+            float f11 = c0Var5 != null ? c0Var5.f31573i : 0.0f;
+            if (f11 != CropImageView.DEFAULT_ASPECT_RATIO) {
+                float fMin = Float.MAX_VALUE;
+                float fMax = -3.4028235E38f;
+                for (int i30 = 0; i30 < childCount; i30++) {
+                    a0 a0Var2 = ((q) map.get(motionLayout.getChildAt(i30))).f31753g;
+                    float f12 = a0Var2.f31556f + a0Var2.f31555e;
+                    fMin = Math.min(fMin, f12);
+                    fMax = Math.max(fMax, f12);
+                }
+                for (int i31 = 0; i31 < childCount; i31++) {
+                    q qVar5 = (q) map.get(motionLayout.getChildAt(i31));
+                    a0 a0Var3 = qVar5.f31753g;
+                    float f13 = a0Var3.f31555e;
+                    float f14 = a0Var3.f31556f;
+                    qVar5.f31759n = 1.0f / (1.0f - f11);
+                    qVar5.m = f11 - ((((f13 + f14) - fMin) * f11) / (fMax - fMin));
+                }
+            }
+            motionLayout.f1282i0 = CropImageView.DEFAULT_ASPECT_RATIO;
+            motionLayout.f1283j0 = CropImageView.DEFAULT_ASPECT_RATIO;
+            motionLayout.f1287n0 = true;
+            motionLayout.invalidate();
+        }
+    }
+}

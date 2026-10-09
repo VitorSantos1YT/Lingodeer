@@ -1,0 +1,51 @@
+package com.lingo.lingoskill.ruskill.ui.learn.mr;
+
+/* JADX INFO: loaded from: classes.dex */
+public class OCBJEWZHh {
+    public static String FAPslZswuceh;
+    public static String GaQRmDIGG;
+    public static String HtO;
+    public static String IcPuJ;
+    public static String InCjxCycs;
+    public static String JlEzCThJdUSXRp;
+    public static String LKmEgvGmU;
+    public static String NKt;
+    public static String NRGqSFWZvssIRe;
+    public static String NpxAIdvDZibD;
+    public static String PePQuuWi;
+    public static String PnGU;
+    public static String QtGxUsEVi;
+    public static String RFCxfrOtJKvjxG;
+    public static String RWDt;
+    public static String TBIFgRpkBYH;
+    public static String TGMPEUtMuJVAvN;
+    public static String TMeOqxAOTg;
+    public static String TkoCkY;
+    public static String VDMvSriBacv;
+    public static String VFYAjAT;
+    public static String XhYCvvHLRoadzU;
+    public static String aLRUIfotUPvsFot;
+    public static String aRQciNCIusqW;
+    public static String blTkJGFl;
+    public static String cSpMJgF;
+    public static String dBdwsvS;
+    public static String epNhP;
+    public static String fKRiuL;
+    public static String fOYcwX;
+    public static String fRNADfEFoi;
+    public static String hWAnsW;
+    public static String iVJMNBOOa;
+    public static String inJNkcRxPlt;
+    public static String kRAXacdGYebqee;
+    public static String lKxwnbIjkeinA;
+    public static String lmmSs;
+    public static String luUrAVbmvks;
+    public static String oLSk;
+    public static String pBHunT;
+    public static String pVBTidIO;
+    public static String qJh;
+    public static String rXoJGK;
+    public static String rthqGWNtkdNfDic;
+    public static String sYCpYTiht;
+    public static String zjhLCwsRxQtTN;
+}

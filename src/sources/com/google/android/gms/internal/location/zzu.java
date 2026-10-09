@@ -1,0 +1,15 @@
+package com.google.android.gms.internal.location;
+
+import com.google.android.gms.common.api.Api;
+
+/* JADX INFO: compiled from: r8-map-id-0efd32d2926a16d016bd865e978a6a9d42a5302dcd598811e995dd081929f0a8 */
+/* JADX INFO: loaded from: classes.dex */
+final class zzu extends zzx {
+    @Override // com.google.android.gms.common.api.internal.BaseImplementation.ApiMethodImpl
+    public final void k(Api.AnyClient anyClient) {
+        zzy zzyVar = new zzy(this);
+        zzh zzhVar = (zzh) ((zzaz) anyClient).f11077g0.f11069a;
+        zzhVar.f11110a.r();
+        zzhVar.a().B(new zzbc(1, zzba.D1(), null, null, null, zzyVar));
+    }
+}
