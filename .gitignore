@@ -2,3 +2,7 @@ apk-original/
 *.apk
 *.zip
 *.jar
+apk-original/
+*.apk
+*.zip
+*.jar
